@@ -43,13 +43,13 @@
 </head>
 <body>
   <div class="container">
-  <h1 class="sitename">Yihui Xie</h1>
+  <h1 class="sitename">Chu Yanshuo</h1>
   <ul class="nav pills">
   <li><a href="/">Home</a></li>
   <li><a href="/cn/">Chinese</a></li>
   <li><a href="/en/">English</a></li>
 </ul>
-{% if page.avatar %} <p><img src="http://i.imgur.com/" title="Yihui Xie" align="right" /></p> {% endif %}
+{% if page.avatar %} <p><img src="http://i.imgur.com/" title="Chu Yanshuo" align="right" /></p> {% endif %}
 {{ content }}
 <footer>
   <p><small>Powered by <a href="https://github.com/mojombo/jekyll">Jekyll</a> on GitHub |  <span class="label label-info">{{site.time | date:"%Y-%m-%d %H:%M:%S"}}</span></small></p>

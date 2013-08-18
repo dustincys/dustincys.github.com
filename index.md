@@ -3,17 +3,27 @@ layout: home
 avatar: yes
 ---
 
-### Who am I？
+I am a Ph.D in bioinformatics, studying in school of computer science at [Harbin Institute of Technology][hit], Heilongjiang, China.
+I like to do sometings for fun, especially creatively fun. 
+For example, I developed a [character matrix tool][zifuzi] particularly to amuse my friends on QQ.
+I also did some serious businesses, such as developed an [XeLaTeX dissertation template][template] for postgraduate degree of Northeast Forestry University.
 
-在读的计算机Ph.D，虔诚的学徒一只。  
+Bioinformatics is a comprehensive subject, derived from computer science and biology. 
+The problem troubles bioinformaticians is that biology enlightened them that organisms are dying as time passing by, while computer science simultaneously made them know that code is immortal. 
+
+[hit]: http://en.hit.edu.cn/
+[zifuzi]: http://ishare.iask.sina.com.cn/f/15806610.html
+[template]: http://sdrv.ms/13MfJSN
+
+我是在读的计算机Ph.D，虔诚的学徒一只。  
 
 <li>喜欢平静、优美的东西，例如`Monaco`字体、`LaTeX`、`Python`、`Sublime`。</li>
-<li>喜欢编码、作图、研究有意思的数学（太难的不会）。</li>
+<li>喜欢编码、作图、研究有意思的数学。</li>
 <li>喜欢做些搞怪的事，如做个QQ刷屏工具刷刷屏什么的。</li> 
 <li>不爱干安装操作系统这类没啥新意的事，消耗生命。</li>
 
 
-### Recently
+### 最近
 
 忙于做点有趣也有益的事。
 
