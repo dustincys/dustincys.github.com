@@ -15,7 +15,9 @@ The problem troubles bioinformaticians is that biology enlightened them that org
 [zifuzi]: http://ishare.iask.sina.com.cn/f/15806610.html
 [template]: http://sdrv.ms/13MfJSN
 
-我是在读的计算机Ph.D，虔诚的学徒一只。  
+## 我是谁
+
+在读的计算机Ph.D，虔诚的学徒一只。  
 
 <li>喜欢平静、优美的东西，例如`Monaco`字体、`LaTeX`、`Python`、`Sublime`。</li>
 <li>喜欢编码、作图、研究有意思的数学。</li>
@@ -23,7 +25,7 @@ The problem troubles bioinformaticians is that biology enlightened them that org
 <li>不爱干安装操作系统这类没啥新意的事，消耗生命。</li>
 
 
-### 最近
+## 最近
 
 忙于做点有趣也有益的事。
 
