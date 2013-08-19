@@ -16,6 +16,10 @@ Problem is , biology enlightens bioinfo guys that organisms are dying as time pa
 [hit]: http://en.hit.edu.cn/
 [zifuzi]: http://ishare.iask.sina.com.cn/f/15806610.html
 [template]: http://sdrv.ms/13MfJSN
+[snake]:  http://blog.renren.com/blog/bp/Q7LTZMpxyO
+[fishing]:  http://blog.renren.com/blog/bp/Q700r0M3YO
+
+
 
 ### 我
 在读的计算机Ph.D，虔诚的学徒一只。
