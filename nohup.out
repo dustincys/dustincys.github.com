@@ -1513,3 +1513,17 @@ kdeinit4: Fatal IO error: client killed
 klauncher: Exiting on signal 15
 kdeinit4: kded4 [kdeinit]: Fatal IO error 11 (Resource temporarily unavailable) on X server :0.0.
 g_dbus_connection_real_closed: Remote peer vanished with error: Underlying GIOStream returned 0 bytes on an async read (g-io-error-quark, 0). Exiting.
+
+(gedit:2385): Gtk-CRITICAL **: gtk_widget_event: assertion `WIDGET_REALIZED_FOR_EVENT (widget, event)' failed
+
+(gedit:2385): Gtk-CRITICAL **: gtk_widget_event: assertion `WIDGET_REALIZED_FOR_EVENT (widget, event)' failed
+
+(gedit:2385): Gtk-WARNING **: Ignoring visual set on widget `gtk-tooltip' that is not on the correct screen.
+
+(gedit:2385): Gtk-WARNING **: Ignoring visual set on widget `gtk-tooltip' that is not on the correct screen.
+
+(gedit:2385): Gtk-CRITICAL **: gtk_widget_event: assertion `WIDGET_REALIZED_FOR_EVENT (widget, event)' failed
+
+(gedit:2385): Gtk-WARNING **: Ignoring visual set on widget `gtk-tooltip' that is not on the correct screen.
+
+(gedit:2385): Gtk-WARNING **: Ignoring visual set on widget `gtk-tooltip' that is not on the correct screen.
