@@ -1,0 +1,1515 @@
+
+(gedit:2941): Gtk-CRITICAL **: gtk_text_buffer_remove_tag: assertion `tag->priv->table == buffer->priv->tag_table' failed
+
+(gedit:2941): Gtk-CRITICAL **: gtk_text_tag_table_remove: assertion `tag->priv->table == table' failed
+Warning: 1 tags were unclosed.
+Warning: 1 tags were unclosed.
+Load done
+getResource: gdlookup://localhost?blank=1
+scheme: gdlookup
+host: localhost
+getResource: gdlookup://localhost?blank=1
+scheme: gdlookup
+host: localhost
+getResource: gdlookup://localhost?word=Welcome!&group=4294967295
+scheme: gdlookup
+host: localhost
+In-place finish.
+====reading 16384 bytes
+====reading 37101 bytes
+Loading 3 abbrv
+Loading 4 abbrv
+getResource: gdlookup://localhost?word=bore&group=4294967294&muted=e9c2dd9a0e2efd957247878213412118,4f09c1261f2856bbcb3574c37cef7d2e,ae6f89aac7151829681b85f035d54e48,ffb0b1a3838a1dfc0b40522eb88d90ea
+scheme: gdlookup
+host: localhost
+====reading 16384 bytes
+====reading 36153 bytes
+alts finished
+Alt: bear
+offset = 15ae734
+some body finished
+one not finished.
+some body finished
+one not finished.
+some body finished
+one not finished.
+offset = 112c2f0
+some body finished
+one finished.
+erasing..
+erase done..
+one finished.
+erasing..
+erase done..
+one finished.
+erasing..
+erase done..
+one finished.
+erasing..
+erase done..
+====reading 63418 bytes
+getResource: bres://96da53adaclicked  QUrl( "gdau://96da53adad8093c7e21a3d379397ac2d/z_bore__gb_1.wav" )  
+Connecting to deprecated signal QDBusConnectionInterface::serviceOwnerChanged(QString,QString,QString)
+QDBusConnection: session D-Bus connection created before QCoreApplication. Application may misbehave.
+QDBusConnection: session D-Bus connection created before QCoreApplication. Application may misbehave.
+kbuildsycoca4 running...
+kbuildsycoca4(2414) KBuildSycoca::checkTimestamps: checking file timestamps
+kbuildsycoca4(2414) KBuildSycoca::checkTimestamps: timestamps check ok
+kbuildsycoca4(2414) kdemain: Emitting notifyDatabaseChanged ()
+d8093c7e21a3d379397ac2d/x_verb_forms_bore.jpg
+scheme: bres
+host: 96da53adad8093c7e21a3d379397ac2d
+n is /usr/share/dict/2U02/x_verb_forms_bore.jpg
+getResource: bres://96da53adad8093c7e21a3d379397ac2d/x_verb_forms_bear.jpg
+scheme: bres
+host: 96da53adad8093c7e21a3d379397ac2d
+n is /usr/share/dict/2U02/x_verb_forms_bear.jpg
+====reading 16384 bytes
+====reading 31022 bytes
+====reading 16384 bytes
+====reading 18366 bytes
+getResource: http://dict.youdao.com/search?q=bore&keyfrom=dict.index
+scheme: http
+host: dict.youdao.com
+getResource: gdau://96da53adad8093c7e21a3d379397ac2d/z_bore__gb_1.wav
+scheme: gdau
+host: 96da53adad8093c7e21a3d379397ac2d
+n is /usr/share/dict/2U02/z_bore__gb_1.wav
+getResource: gdlookup://localhost?word=bore&group=4294967294&&muted=e9c2dd9a0e2efd957247878213412118,4f09c1261f2856bbcb3574c37cef7d2e,65cbc4e2bc843a167aee62f36bb91857,ae6f89aac7151829681b85f035d54e48,ffb0b1a3838a1dfc0b40522eb88d90ea
+scheme: gdlookup
+host: localhost
+====reading 16384 bytes
+====reading 36153 bytes
+alts finished
+Alt: bear
+Warning: 1 tags were unclosed.
+Warning: 1 tags were unclosed.
+clicked  QUrl( "gdau://96da53adad8093c7e21a3d379397ac2d/z_bore__gb_1.wav" )  
+Aborting aboutToFinish handling. 
+Warning: 1 tags were unclosed.
+Warning: 1 tags were unclosed.
+some body finished
+one not finished.
+offset = 15ae734
+offset = 112c2f0
+some body finished
+one not finished.
+some body finished
+one not finished.
+some body finished
+one finished.
+erasing..
+erase done..
+one finished.
+erasing..
+erase done..
+one finished.
+erasing..
+erase done..
+====reading 62390 bytes
+getResource: gdau://96da53adad8093c7e21a3d379397ac2d/z_bore__gb_1.wav
+scheme: gdau
+host: 96da53adad8093c7e21a3d379397ac2d
+n is /usr/share/dict/2U02/z_bore__gb_1.wav
+getResource: gdlookup://localhost?word=bore&group=4294967294&muted=e9c2dd9a0e2efd957247878213412118,4f09c1261f2856bbcb3574c37cef7d2e,65cbc4e2bc843a167aee62f36bb91857,ae6f89aac7151829681b85f035d54e48,ffb0b1a3838a1dfc0b40522eb88d90ea
+scheme: gdlookup
+host: localhost
+====reading 16384 bytes
+====reading 36153 bytes
+alts finished
+Alt: bear
+some body finished
+one not finished.
+offset = 15ae734
+offset = 112c2f0
+some body finished
+one not finished.
+some body finished
+one not finished.
+some body finished
+one finished.
+erasing..
+erase done..
+one finished.
+erasing.clicked  QUrl( "gdau://96da53adad8093c7e21a3d379397ac2d/z_bore__gb_1.wav" )  
+.
+erase done..
+one finished.
+erasing..
+erase done..
+====reading 62390 bytes
+getResource: gdau://96da53adad8093c7e21a3d379397ac2d/z_bore__gb_1.wav
+scheme: gdau
+host: 96da53adad8093c7e21a3d379397ac2d
+n is /usr/share/dict/2U02/z_bore__gb_1.wav
+getResource: gdlookup://localhost?word=bore a grudge&group=4294967294&muted=e9c2dd9a0e2efd957247878213412118,4f09c1261f2856bbcb3574c37cef7d2e,65cbc4e2bc843a167aee62f36bb91857,ae6f89aac7151829681b85f035d54e48,ffb0b1a3838a1dfc0b40522eb88d90ea
+scheme: gdlookup
+host: localhost
+====reading 16384 bytes
+====reading 36162 bytes
+alts finished
+some body finished
+one not finished.
+some body finished
+one finished.
+erasing..
+erase done..
+one finished.
+erasing..
+erase done..
+one finished.
+erasing..
+erase done..
+====reading 16384 bytes
+getResource: gdlookup://localhost?word=bore fruit&group=4294967294&muted=e9c2dd9a0e2efd957247878213412118,4f09c1261f2856bbcb3574c37cef7d2e,65cbc4e2bc843a167aee62f36bb91857,ae6f89aac7151829681b85f035d54e48,ffb0b1a3838a1dfc0b40522eb88d90ea
+scheme: gdlookup
+hWarning: 1 tags were unclosed.
+Warning: 1 tags were unclosed.
+clicked  QUrl( "gdau://96da53adad8093c7e21a3d379397ac2d/z_bore__gb_1.wav" )  
+ost: localhost
+====reading 16384 bytes
+====reading 36159 bytes
+alts finished
+some body finished
+one not finished.
+some body finished
+one finished.
+erasing..
+erase done..
+one finished.
+erasing..
+erase done..
+one finished.
+erasing..
+erase done..
+====reading 16384 bytes
+getResource: gdlookup://localhost?word=bore&group=4294967294&muted=e9c2dd9a0e2efd957247878213412118,4f09c1261f2856bbcb3574c37cef7d2e,65cbc4e2bc843a167aee62f36bb91857,ae6f89aac7151829681b85f035d54e48,ffb0b1a3838a1dfc0b40522eb88d90ea
+scheme: gdlookup
+host: localhost
+====reading 16384 bytes
+====reading 36153 bytes
+alts finished
+Alt: bear
+some body finished
+one not finished.
+offset = 15ae734
+offset = 112c2f0
+some body finished
+one not finished.
+some body finished
+one not finished.
+some body finished
+one finished.
+erasing..
+erase done..
+one finished.
+erasing..
+erase done..
+one finished.
+erasing..
+erase done..
+====reading 62390 bytes
+getResource: gdau://96da53adad8093c7e21a3d379397ac2d/z_bore__gb_1.wav
+scheme: gdau
+host: 96da53adad8093c7e21a3d379397ac2Warning: 1 tags were unclosed.
+clicked  QUrl( "gdau://96da53adad8093c7e21a3d379397ac2d/z_statistic__gb_1.wav" )  
+d
+n is /usr/share/dict/2U02/z_bore__gb_1.wav
+getResource: gdlookup://localhost?word=statistic&group=4294967294&muted=e9c2dd9a0e2efd957247878213412118,4f09c1261f2856bbcb3574c37cef7d2e,65cbc4e2bc843a167aee62f36bb91857,ae6f89aac7151829681b85f035d54e48,ffb0b1a3838a1dfc0b40522eb88d90ea
+scheme: gdlookup
+host: localhost
+====reading 16384 bytes
+====reading 36158 bytes
+alts finished
+some body finished
+one not finished.
+offset = a56d94c
+some body finished
+one not finished.
+some body finished
+one not finished.
+some body finished
+one finished.
+erasing..
+erase done..
+one finished.
+erasing..
+erase done..
+one finished.
+erasing..
+erase done..
+====reading 16384 bytes
+getResource: gdau://96da53adad8093c7e21a3d379397ac2d/z_statistic__gb_1.wav
+scheme: gdau
+host: 96da53adad8093c7e21a3d379397ac2d
+n is /usr/share/dict/2U02/z_statistic__gb_1.wav
+getResource: gdlookup://localhost?word=statist&group=4294967294&muted=e9c2dd9a0e2efd957247878213412118,4f09c1261f2856bbcb3574c37cef7d2e,65cbc4e2bc843a167aee62f36bb91857,ae6f89aac7151829681b8Warning: 1 tags were unclosed.
+clicked  QUrl( "gdau://96da53adad8093c7e21a3d379397ac2d/z_statist__gb_1.wav" )  
+5f035d54e48,ffb0b1a3838a1dfc0b40522eb88d90ea
+scheme: gdlookup
+host: localhost
+====reading 16384 bytes
+====reading 36156 bytes
+alts finished
+some body finished
+one not finished.
+offset = a56d50a
+some body finished
+one finished.
+erasing..
+erase done..
+one finished.
+erasing..
+erase done..
+one finished.
+erasing..
+erase done..
+====reading 16384 bytes
+getResource: gdau://96da53adad8093c7e21a3d379397ac2d/z_statist__gb_1.wav
+scheme: gdau
+host: 96da53adad8093c7e21a3d379397ac2d
+n is /usr/share/dict/2U02/z_statist__gb_1.wav
+getResource: gdlookup://localhost?word=统计&group=4294967294&muted=e9c2dd9a0e2efd957247878213412118,4f09c1261f2856bbcb3574c37cef7d2e,65cbc4e2bc843a167aee62f36bb91857,ae6f89aac7151829681b85f035d54e48,ffb0b1a3838a1dfc0b40522eb88d90ea
+scheme: gdlookup
+host: localhost
+====reading 16384 bytes
+====reading 36155 bytes
+alts finished
+some body finished
+one not finished.
+some body finished
+one finished.
+erasing..
+erase done..
+one finished.
+erasing..
+erase done..
+one finished.
+erasing..
+erase done..
+====reading 16384 bytes
+getResource: gdlookup://localhost?word=统计数据&group=4294967294&muted=e9c2dd9a0e2efd957247878213412118,4f09c1261f2856bbcb3574c37cef7d2e,65cbc4e2bc843a167aee62f36bb91857,ae6f89aac7151829681b85f035d54e48,ffb0b1a3838a1dfc0b40522eb88d90ea
+scheme: gdlookup
+host: localhost
+====reading 16384 bytes
+====reading 36161 bytes
+alts finished
+some body finished
+one not finished.
+some body finished
+one finished.
+erasing..
+erase done..
+one finished.
+erasing..
+erase done..
+one finished.
+erasing..
+erase done..
+====reading 16384 bytes
+getResource: gdlookup://localhost?word=统计结果&group=4294967294&muted=e9c2dd9a0e2efd957247878213412118,4f09c1261f2856bbcb3574c37cef7d2e,65cbc4e2bc843a167aee62f36bb91857,ae6f89aac7151829681b85f035d54e48,ffb0b1a3838a1dfc0b40522eb88d90ea
+scheme: gdlookup
+host: localhost
+====reading 16384 bytes
+====reading 36161 bytes
+alts finished
+some body finished
+one not finished.
+some body finished
+one finished.
+erasing..
+erase done..
+one finished.
+erasing..
+erase done..
+one finished.
+erasing..
+erase done..
+====reading 16384 bytes
+getResource: gdlookup://localhost?word=统计学&group=4294967294&muted=e9c2dd9a0e2efd957247878213412118,4f09c1261f2856bbcb3574c37cef7d2e,65cbc4e2bc843a167aee62f36bb91857,ae6f89aac7151829681b85f035d54e48,ffb0b1a3838a1dfc0b40522eb88d90ea
+scheme: gdlookup
+host: localhost
+====reading 16384 bytes
+====reading 36158 bytes
+alts finished
+some body finished
+one not finished.
+some body finished
+one finished.
+erasing..
+erase done..
+one finished.
+erasing..
+erase done..
+one finished.
+erasing..
+erase done..
+====reading 16384 bytes
+getResource: gdlookup://localhost?word=统计&group=4294967294&muted=e9c2dd9a0e2efd957247878213412118,4f09c1261f2856bbcb3574c37cef7d2e,65cbc4e2bc843a167aee62f36bb91857,ae6f89aac7151829681b85f035d54e48,ffb0b1a3838a1dfc0b40522eb88d90ea
+scheme: gdlookup
+host: localhost
+====reading 16384 bytes
+====reading 36155 bytes
+alts finished
+some body finished
+one not finished.
+some body finished
+one finished.
+erasing..
+erase done..
+one finished.
+erasing..
+erase done..Warning: 1 tags were unclosed.
+
+one finished.
+erasing..
+erase done..
+====reading 16384 bytes
+getResource: gdlookup://localhost?word=add up&group=4294967294&muted=e9c2dd9a0e2efd957247878213412118,4f09c1261f2856bbcb3574c37cef7d2e,65cbc4e2bc843a167aee62f36bb91857,ae6f89aac7151829681b85f035d54e48,ffb0b1a3838a1dfc0b40522eb88d90ea
+scheme: gdlookup
+host: localhost
+====reading 16384 bytes
+====reading 36155 bytes
+alts finished
+some body finished
+one not finished.
+offset = 5b4c2a
+some body finished
+one not finished.
+some body finished
+one not finished.
+some body finished
+one finished.
+erasing..
+erase done..
+one finished.
+erasing..
+erase done..
+one finished.
+erasing..
+erase done..
+====reading 16384 bytes
+getResource: gdlookup://localhost?word=record&group=4294967294&muted=e9c2dd9a0e2efd957247878213412118,4f09c1261f2856bbcb3574c37cef7d2e,65cbc4e2bc843a167aee62f36bb91857,ae6f89aac7151829681b85f035d54e48,ffb0b1a3838a1dfc0b40522eb88d90ea
+scheme: gdlookup
+host: localhost
+====reading 16384 bytes
+====reading 36155 bytes
+alts finished
+some body finished
+one Warning: 1 tags were unclosed.
+clicked  QUrl( "gdau://96da53adad8093c7e21a3d379397ac2d/z_record__gb_1.wav" )  
+not finished.
+offset = 8ceca34
+some body finished
+one not finished.
+some body finished
+one not finished.
+some body finished
+one finished.
+erasing..
+erase done..
+one finished.
+erasing..
+erase done..
+one finished.
+erasing..
+erase done..
+====reading 60216 bytes
+getResource: bres://96da53adad8093c7e21a3d379397ac2d/x_verb_forms_record.jpg
+scheme: bres
+host: 96da53adad8093c7e21a3d379397ac2d
+n is /usr/share/dict/2U02/x_verb_forms_record.jpg
+====reading 16384 bytes
+====reading 19630 bytes
+getResource: gdau://96da53adad8093c7e21a3d379397ac2d/z_record__gb_1.wav
+scheme: gdau
+host: 96da53adad8093c7e21a3d379397ac2d
+n is /usr/share/dict/2U02/z_record__gb_1.wav
+getResource: gdlookup://localhost?word=mine&group=4294967294&muted=e9c2dd9a0e2efd957247878213412118,4f09c1261f2856bbcb3574c37cef7d2e,65cbc4e2bc843a167aee62f36bb91857,ae6f89aac7151829681b85f035d54e48,ffb0b1a3838a1dfc0b40522eb88d90ea
+scheme: gdlookup
+host: localhost
+====reading 16384 bytes
+====reading 36153 bytes
+alts finished
+some body finished
+one not finished.
+offseWarning: 1 tags were unclosed.
+clicked  QUrl( "gdau://96da53adad8093c7e21a3d379397ac2d/z_mine__gb_1.wav" )  
+t = 6e0c9da
+some body finished
+one not finished.
+some body finished
+one not finished.
+some body finished
+one finished.
+erasing..
+erase done..
+one finished.
+erasing..
+erase done..
+one finished.
+erasing..
+erase done..
+====reading 19300 bytes
+getResource: bres://96da53adad8093c7e21a3d379397ac2d/x_verb_forms_mine.jpg
+scheme: bres
+host: 96da53adad8093c7e21a3d379397ac2d
+n is /usr/share/dict/2U02/x_verb_forms_mine.jpg
+In-place finish.
+====reading 16384 bytes
+====reading 16039 bytes
+getResource: gdau://96da53adad8093c7e21a3d379397ac2d/z_mine__gb_1.wav
+scheme: gdau
+host: 96da53adad8093c7e21a3d379397ac2d
+n is /usr/share/dict/2U02/z_mine__gb_1.wav
+getResource: gdlookup://localhost?word=人群&group=4294967294&muted=e9c2dd9a0e2efd957247878213412118,4f09c1261f2856bbcb3574c37cef7d2e,65cbc4e2bc843a167aee62f36bb91857,ae6f89aac7151829681b85f035d54e48,ffb0b1a3838a1dfc0b40522eb88d90ea
+scheme: gdlookup
+host: localhost
+====reading 16384 bytes
+====reading 36155 bytes
+alts finished
+some body finished
+one not finished.
+some body finWarning: 1 tags were unclosed.
+clicked  QUrl( "gdau://96da53adad8093c7e21a3d379397ac2d/z_relationship__gb_1.wav" )  
+ished
+one finished.
+erasing..
+erase done..
+one finished.
+erasing..
+erase done..
+one not finished.
+some body finished
+one not finished.
+some body finished
+one finished.
+erasing..
+erase done..
+====reading 16384 bytes
+getResource: gdlookup://localhost?word=relationship&group=4294967294&muted=e9c2dd9a0e2efd957247878213412118,4f09c1261f2856bbcb3574c37cef7d2e,65cbc4e2bc843a167aee62f36bb91857,ae6f89aac7151829681b85f035d54e48,ffb0b1a3838a1dfc0b40522eb88d90ea
+scheme: gdlookup
+host: localhost
+====reading 16384 bytes
+====reading 36161 bytes
+alts finished
+some body finished
+one not finished.
+offset = 8e67ef4
+some body finished
+one not finished.
+some body finished
+one finished.
+erasing..
+erase done..
+one finished.
+erasing..
+erase done..
+one finished.
+erasing..
+erase done..
+====reading 23919 bytes
+getResource: gdau://96da53adad8093c7e21a3d379397ac2d/z_relationship__gb_1.wav
+scheme: gdau
+host: 96da53adad8093c7e21a3d379397ac2d
+n is /usr/share/dict/2U02/z_relationship__gb_1.wav
+getResource: gdlookup://localhost?word=often&groWarning: 1 tags were unclosed.
+clicked  QUrl( "gdau://96da53adad8093c7e21a3d379397ac2d/z_often__gb_1.wav" )  
+up=4294967294&muted=e9c2dd9a0e2efd957247878213412118,4f09c1261f2856bbcb3574c37cef7d2e,65cbc4e2bc843a167aee62f36bb91857,ae6f89aac7151829681b85f035d54e48,ffb0b1a3838a1dfc0b40522eb88d90ea
+scheme: gdlookup
+host: localhost
+====reading 16384 bytes
+====reading 36154 bytes
+alts finished
+some body finished
+one not finished.
+offset = 76d085c
+some body finished
+one not finished.
+some body finished
+one not finished.
+some body finished
+one finished.
+erasing..
+erase done..
+one finished.
+erasing..
+erase done..
+one finished.
+erasing..
+erase done..
+====reading 17929 bytes
+getResource: gdau://96da53adad8093c7e21a3d379397ac2d/z_often__gb_1.wav
+scheme: gdau
+host: 96da53adad8093c7e21a3d379397ac2d
+n is /usr/share/dict/2U02/z_often__gb_1.wav
+getResource: gdlookup://localhost?word=除夕&group=4294967294&muted=e9c2dd9a0e2efd957247878213412118,4f09c1261f2856bbcb3574c37cef7d2e,65cbc4e2bc843a167aee62f36bb91857,ae6f89aac7151829681b85f035d54e48,ffb0b1a3838a1dfc0b40522eb88d90ea
+scheme: gdlookup
+host: localhost
+====reading 16384 bytes
+====reading 36155 bytes
+alts finished
+some body finished
+one not finished.
+some body finished
+one finished.
+erasing..
+erase done..
+one finished.
+erasing..
+erase done..
+one finished.
+erasing..
+erase done..
+====reading 16384 bytes
+getResource: gdlookup://localhost?word=除夕夜&group=4294967294&muted=e9c2dd9a0e2efd957247878213412118,4f09c1261f2856bbcb3574c37cef7d2e,65cbc4e2bc843a167aee62f36bb91857,ae6f89aac7151829681b85f035d54e48,ffb0b1a3838a1dfc0b40522eb88d90ea
+scheme: gdlookup
+host: localhost
+====reading 16384 bytes
+====reading 36158 bytes
+alts finished
+some body finished
+one not finished.
+some body finished
+one finished.
+erasing..
+erase done..
+one finished.
+erasing..
+erase done..
+one finished.
+erasing..
+erase done..
+====reading 16384 bytes
+====reading 16384 bytes
+getResource: gdlookup://localhost?word=除夕&group=4294967294&muted=e9c2dd9a0e2efd957247878213412118,4f09c1261f2856bbcb3574c37cef7d2e,65cbc4e2bc843a167aee62f36bb91857,ae6f89aac7151829681b85f035d54e48,ffb0b1a3838a1dfc0b40522eb88d90ea
+scheme: gdlookup
+hWarning: 1 tags were unclosed.
+clicked  QUrl( "gdau://96da53adad8093c7e21a3d379397ac2d/z_new_year_s_eve_1_gb_1.wav" )  
+ost: localhost
+====reading 16384 bytes
+====reading 36155 bytes
+alts finished
+some body finished
+one not finished.
+some body finished
+one finished.
+erasing..
+erase done..
+one finished.
+erasing..
+erase done..
+one finished.
+erasing..
+erase done..
+====reading 16384 bytes
+getResource: gdlookup://localhost?word=New Year's Eve&group=4294967294&muted=e9c2dd9a0e2efd957247878213412118,4f09c1261f2856bbcb3574c37cef7d2e,65cbc4e2bc843a167aee62f36bb91857,ae6f89aac7151829681b85f035d54e48,ffb0b1a3838a1dfc0b40522eb88d90ea
+scheme: gdlookup
+host: localhost
+====reading 16384 bytes
+====reading 36163 bytes
+alts finished
+some body finished
+one not finished.
+offset = 738a816
+some body finished
+one not finished.
+some body finished
+one not finished.
+some body finished
+one finished.
+erasing..
+erase done..
+one finished.
+erasing..
+erase done..
+one finished.
+erasing..
+erase done..
+====reading 16384 bytes
+getResource: gdau://96da53adad8093c7e21a3d379397ac2d/z_new_year_s_eve_1_gb_1.wav
+scheme: gdau
+host: 96da53adad8093c7e21a3d379397ac2d
+n isWarning: 1 tags were unclosed.
+Warning: 1 tags were unclosed.
+clicked  QUrl( "gdau://96da53adad8093c7e21a3d379397ac2d/z_drew__gb_1.wav" )  
+ /usr/share/dict/2U02/z_new_year_s_eve_1_gb_1.wav
+getResource: gdlookup://localhost?word=drew&group=4294967294&muted=e9c2dd9a0e2efd957247878213412118,4f09c1261f2856bbcb3574c37cef7d2e,65cbc4e2bc843a167aee62f36bb91857,ae6f89aac7151829681b85f035d54e48,ffb0b1a3838a1dfc0b40522eb88d90ea
+scheme: gdlookup
+host: localhost
+====reading 16384 bytes
+====reading 36153 bytes
+alts finished
+Alt: draw
+offset = 363ca52
+some body finished
+one not finished.
+some body finished
+one not finished.
+offset = 35e511e
+some body finished
+one finished.
+erasing..
+erase done..
+one finished.
+erasing..
+erase done..
+one finished.
+erasing..
+erase done..
+====reading 66888 bytes
+getResource: bres://96da53adad8093c7e21a3d379397ac2d/x_verb_forms_draw.jpg
+scheme: bres
+host: 96da53adad8093c7e21a3d379397ac2d
+n is /usr/share/dict/2U02/x_verb_forms_draw.jpg
+In-place finish.
+====reading 16384 bytes
+====reading 19231 bytes
+getResource: gdau://96da53adad8093c7e21a3d379397ac2d/z_drew__gb_1.wav
+scheme: gdau
+host: 96da53adad8093c7e21a3d379397ac2d
+n is /usr/shaWarning: 1 tags were unclosed.
+clicked  QUrl( "gdau://96da53adad8093c7e21a3d379397ac2d/z_draw__gb_1.wav" )  
+re/dict/2U02/z_drew__gb_1.wav
+getResource: gdlookup://localhost?word=draw&group=4294967294&muted=e9c2dd9a0e2efd957247878213412118,4f09c1261f2856bbcb3574c37cef7d2e,65cbc4e2bc843a167aee62f36bb91857,ae6f89aac7151829681b85f035d54e48,ffb0b1a3838a1dfc0b40522eb88d90ea
+scheme: gdlookup
+host: localhost
+====reading 16384 bytes
+====reading 36153 bytes
+alts finished
+some body finished
+one not finished.
+offset = 35e511e
+some body finished
+one not finished.
+some body finished
+one not finished.
+some body finished
+one finished.
+erasing..
+erase done..
+one finished.
+erasing..
+erase done..
+one finished.
+erasing..
+erase done..
+====reading 64937 bytes
+getResource: gdau://96da53adad8093c7e21a3d379397ac2d/z_draw__gb_1.wav
+scheme: gdau
+host: 96da53adad8093c7e21a3d379397ac2d
+n is /usr/share/dict/2U02/z_draw__gb_1.wav
+getResource: gdlookup://localhost?word=simulate&group=4294967294&muted=e9c2dd9a0e2efd957247878213412118,4f09c1261f2856bbcb3574c37cef7d2e,65cbc4e2bc843a167aee62f36bb91857,ae6f89aac7151829681b85f035d54e48,ffb0b1a3838a1dfc0Warning: 1 tags were unclosed.
+clicked  QUrl( "gdau://96da53adad8093c7e21a3d379397ac2d/z_simulate__gb_1.wav" )  
+b40522eb88d90ea
+scheme: gdlookup
+host: localhost
+====reading 16384 bytes
+====reading 36157 bytes
+alts finished
+some body finished
+one not finished.
+offset = 9dd2216
+some body finished
+one not finished.
+some body finished
+one not finished.
+some body finished
+one finished.
+erasing..
+erase done..
+one finished.
+erasing..
+erase done..
+one finished.
+erasing..
+erase done..
+====reading 16384 bytes
+getResource: bres://96da53adad8093c7e21a3d379397ac2d/x_verb_forms_simulate.jpg
+scheme: bres
+host: 96da53adad8093c7e21a3d379397ac2d
+n is /usr/share/dict/2U02/x_verb_forms_simulate.jpg
+====reading 16384 bytes
+====reading 21836 bytes
+getResource: gdau://96da53adad8093c7e21a3d379397ac2d/z_simulate__gb_1.wav
+scheme: gdau
+host: 96da53adad8093c7e21a3d379397ac2d
+n is /usr/share/dict/2U02/z_simulate__gb_1.wav
+getResource: gdlookup://localhost?word=fish&group=4294967294&muted=e9c2dd9a0e2efd957247878213412118,4f09c1261f2856bbcb3574c37cef7d2e,65cbc4e2bc843a167aee62f36bb91857,ae6f89aac7151829681b85f035d54e48,ffb0b1a3838a1dfc0b40522eb88dWarning: 1 tags were unclosed.
+clicked  QUrl( "gdau://96da53adad8093c7e21a3d379397ac2d/z_fish__gb_1.wav" )  
+90ea
+scheme: gdlookup
+host: localhost
+====reading 16384 bytes
+====reading 36153 bytes
+alts finished
+some body finished
+one not finished.
+offset = 4326026
+some body finished
+one not finished.
+some body finished
+one finished.
+erasing..
+erase done..
+one finished.
+erasing..
+erase done..
+one finished.
+erasing..
+erase done..
+====reading 23224 bytes
+getResource: bres://96da53adad8093c7e21a3d379397ac2d/x_verb_forms_fish.jpg
+scheme: bres
+host: 96da53adad8093c7e21a3d379397ac2d
+n is /usr/share/dict/2U02/x_verb_forms_fish.jpg
+====reading 16384 bytes
+====reading 14299 bytes
+getResource: gdau://96da53adad8093c7e21a3d379397ac2d/z_fish__gb_1.wav
+scheme: gdau
+host: 96da53adad8093c7e21a3d379397ac2d
+n is /usr/share/dict/2U02/z_fish__gb_1.wav
+getResource: gdlookup://localhost?word=named&group=4294967294&muted=e9c2dd9a0e2efd957247878213412118,4f09c1261f2856bbcb3574c37cef7d2e,65cbc4e2bc843a167aee62f36bb91857,ae6f89aac7151829681b85f035d54e48,ffb0b1a3838a1dfc0b40522eb88d90ea
+scheme: gdlookup
+host: localhost
+====reading 16384 bytes
+=Warning: 1 tags were unclosed.
+clicked  QUrl( "gdau://96da53adad8093c7e21a3d379397ac2d/z_name__gb_1.wav" )  
+===reading 36154 bytes
+alts finished
+Alt: name
+some body finished
+one not finished.
+offset = 71fa1a0
+some body finished
+one not finished.
+some body finished
+one not finished.
+some body finished
+one finished.
+erasing..
+erase done..
+one finished.
+erasing..
+erase done..
+one finished.
+erasing..
+erase done..
+====reading 72015 bytes
+getResource: bres://96da53adad8093c7e21a3d379397ac2d/x_verb_forms_name.jpg
+scheme: bres
+host: 96da53adad8093c7e21a3d379397ac2d
+n is /usr/share/dict/2U02/x_verb_forms_name.jpg
+In-place finish.
+====reading 16384 bytes
+====reading 16409 bytes
+getResource: gdau://96da53adad8093c7e21a3d379397ac2d/z_name__gb_1.wav
+scheme: gdau
+host: 96da53adad8093c7e21a3d379397ac2d
+n is /usr/share/dict/2U02/z_name__gb_1.wav
+getResource: gdlookup://localhost?word=原理&group=4294967294&muted=e9c2dd9a0e2efd957247878213412118,4f09c1261f2856bbcb3574c37cef7d2e,65cbc4e2bc843a167aee62f36bb91857,ae6f89aac7151829681b85f035d54e48,ffb0b1a3838a1dfc0b40522eb88d90ea
+scheme: gdlookup
+host: localhost
+====reading 16384 bytesWarning: 1 tags were unclosed.
+Warning: 1 tags were unclosed.
+clicked  QUrl( "gdau://96da53adad8093c7e21a3d379397ac2d/z_simulated__gb_1.wav" )  
+
+====reading 36155 bytes
+alts finished
+some body finished
+one not finished.
+some body finished
+one finished.
+erasing..
+erase done..
+one finished.
+erasing..
+erase done..
+one finished.
+erasing..
+erase done..
+====reading 16384 bytes
+getResource: gdlookup://localhost?word=simulated&group=4294967294&muted=e9c2dd9a0e2efd957247878213412118,4f09c1261f2856bbcb3574c37cef7d2e,65cbc4e2bc843a167aee62f36bb91857,ae6f89aac7151829681b85f035d54e48,ffb0b1a3838a1dfc0b40522eb88d90ea
+scheme: gdlookup
+host: localhost
+====reading 16384 bytes
+====reading 36158 bytes
+alts finished
+Alt: simulate
+some body finished
+one not finished.
+offset = 9dd385c
+some body finished
+one not finished.
+some body finished
+one not finished.
+offset = 9dd2216
+some body finished
+one finished.
+erasing..
+erase done..
+one finished.
+erasing..
+erase done..
+one finished.
+erasing..
+erase done..
+====reading 16384 bytes
+getResource: gdau://96da53adad8093c7e21a3d379397ac2d/z_simulated__gb_1.wav
+scheme: gdau
+host: 96da53adad8093c7e21a3d379397ac2d
+n is /usr/share/dict/2Warning: 1 tags were unclosed.
+clicked  QUrl( "gdau://96da53adad8093c7e21a3d379397ac2d/z_informatics__gb_1.wav" )  
+U02/z_simulated__gb_1.wav
+getResource: gdlookup://localhost?word=informatics&group=4294967294&muted=e9c2dd9a0e2efd957247878213412118,4f09c1261f2856bbcb3574c37cef7d2e,65cbc4e2bc843a167aee62f36bb91857,ae6f89aac7151829681b85f035d54e48,ffb0b1a3838a1dfc0b40522eb88d90ea
+scheme: gdlookup
+host: localhost
+====reading 16384 bytes
+====reading 36160 bytes
+alts finished
+some body finished
+one not finished.
+offset = 5af59de
+some body finished
+one not finished.
+some body finished
+one not finished.
+some body finished
+one finished.
+erasing..
+erase done..
+one finished.
+erasing..
+erase done..
+one finished.
+erasing..
+erase done..
+====reading 16384 bytes
+getResource: gdau://96da53adad8093c7e21a3d379397ac2d/z_informatics__gb_1.wav
+scheme: gdau
+host: 96da53adad8093c7e21a3d379397ac2d
+n is /usr/share/dict/2U02/z_informatics__gb_1.wav
+getResource: gdlookup://localhost?word=person&group=4294967294&muted=e9c2dd9a0e2efd957247878213412118,4f09c1261f2856bbcb3574c37cef7d2e,65cbc4e2bc843a167aee62f36bb91857,ae6f89aac7151829681b85f035d54e48,ffWarning: 1 tags were unclosed.
+clicked  QUrl( "gdau://96da53adad8093c7e21a3d379397ac2d/z_person__gb_1.wav" )  
+Warning: 1 tags were unclosed.
+b0b1a3838a1dfc0b40522eb88d90ea
+scheme: gdlookup
+host: localhost
+====reading 16384 bytes
+====reading 36155 bytes
+alts finished
+some body finished
+one not finished.
+offset = 7e3a446
+some body finished
+one not finished.
+some body finished
+one not finished.
+some body finished
+one finished.
+erasing..
+erase done..
+one finished.
+erasing..
+erase done..
+one finished.
+erasing..
+erase done..
+====reading 19764 bytes
+getResource: gdau://96da53adad8093c7e21a3d379397ac2d/z_person__gb_1.wav
+scheme: gdau
+host: 96da53adad8093c7e21a3d379397ac2d
+n is /usr/share/dict/2U02/z_person__gb_1.wav
+getResource: gdlookup://localhost?word=persons&group=4294967294&muted=e9c2dd9a0e2efd957247878213412118,4f09c1261f2856bbcb3574c37cef7d2e,65cbc4e2bc843a167aee62f36bb91857,ae6f89aac7151829681b85f035d54e48,ffb0b1a3838a1dfc0b40522eb88d90ea
+scheme: gdlookup
+host: localhost
+====reading 16384 bytes
+====reading 36156 bytes
+alts finished
+Alt: person
+some body finished
+one not finished.
+offset = 7e3a446
+some body finished
+one finished.
+erasing..
+erase doclicked  QUrl( "gdau://96da53adad8093c7e21a3d379397ac2d/z_person__gb_1.wav" )  
+ne..
+one finished.
+erasing..
+erase done..
+one finished.
+erasing..
+erase done..
+====reading 19764 bytes
+getResource: gdau://96da53adad8093c7e21a3d379397ac2d/z_person__gb_1.wav
+scheme: gdau
+host: 96da53adad8093c7e21a3d379397ac2d
+n is /usr/share/dict/2U02/z_person__gb_1.wav
+getResource: gdlookup://localhost?word=most of my time&group=4294967294&muted=e9c2dd9a0e2efd957247878213412118,4f09c1261f2856bbcb3574c37cef7d2e,65cbc4e2bc843a167aee62f36bb91857,ae6f89aac7151829681b85f035d54e48,ffb0b1a3838a1dfc0b40522eb88d90ea
+scheme: gdlookup
+host: localhost
+====reading 16384 bytes
+====reading 36164 bytes
+alts finished
+some body finished
+one not finished.
+some body finished
+one finished.
+erasing..
+erase done..
+one finished.
+erasing..
+erase done..
+one finished.
+erasing..
+erase done..
+====reading 16384 bytes
+====reading 16384 bytes
+getResource: gdlookup://localhost?word=most of&group=4294967294&muted=e9c2dd9a0e2efd957247878213412118,4f09c1261f2856bbcb3574c37cef7d2e,65cbc4e2bc843a167aee62f36bb91857,ae6f89aac7151829681b85f035d54eclicked  QUrl( "gdlookup://localhost/most of all" )  
+48,ffb0b1a3838a1dfc0b40522eb88d90ea
+scheme: gdlookup
+host: localhost
+====reading 16384 bytes
+====reading 36156 bytes
+alts finished
+some body finished
+one not finished.
+some body finished
+one finished.
+erasing..
+erase done..
+one finished.
+erasing..
+erase done..
+one finished.
+erasing..
+erase done..
+====reading 16384 bytes
+====reading 16384 bytes
+====reading 16384 bytes
+getResource: gdlookup://localhost?word=most of all&group=4294967294&muted=e9c2dd9a0e2efd957247878213412118,4f09c1261f2856bbcb3574c37cef7d2e,65cbc4e2bc843a167aee62f36bb91857,ae6f89aac7151829681b85f035d54e48,ffb0b1a3838a1dfc0b40522eb88d90ea
+scheme: gdlookup
+host: localhost
+====reading 16384 bytes
+====reading 36160 bytes
+alts finished
+some body finished
+one not finished.
+some body finished
+one finished.
+erasing..
+erase done..
+one not finished.
+some body finished
+one not finished.
+some body finished
+one finished.
+erasing..
+erase done..
+one finished.
+erasing..
+erase done..
+====reading 16384 bytes
+getResource: gdlookup://localhost?word=大部分&group=4294967294&muted=e9c2dd9a0e2efd957247878213412118,4f09c1261f2856bbcb3574c37cef7d2e,65cbc4e2bc843a167aee62f36bb91857,ae6f89aac7151829681b85f035d54e48,ffb0b1a3838a1dfc0b40522eb88d90ea
+scheme: gdlookup
+host: localhost
+====reading 16384 bytes
+====reading 36158 bytes
+alts finished
+some body finished
+one not finished.
+some body finished
+one finished.
+erasing..
+erase done..
+one finished.
+erasing..
+erase done..
+one finished.
+erasing..
+erase done..
+====reading 16384 bytes
+getResource: gdlookup://localhost?word=deal with&group=4294967294&muted=e9c2dd9a0e2efd957247878213412118,4f09c1261f2856bbcb3574c37cef7d2e,65cbc4e2bc843a167aee62f36bb91857,ae6f89aac7151829681b85f035d54e48,ffb0b1a3838a1dfc0b40522eb88d90ea
+scheme: gdlookup
+host: localhost
+====reading 16384 bytes
+====reading 36158 bytes
+alts finished
+some body finished
+one not finished.
+some body finished
+one finished.
+erasing..
+erase done..
+one finished.
+erasing..
+erase done..
+one finished.
+erasing..
+erase done..
+====reading 16384 bytes
+getResource: gdlookup://localhostWarning: 1 tags were unclosed.
+clicked  QUrl( "gdlookup://localhost/deal" )  
+?word=deal with somebody&group=4294967294&muted=e9c2dd9a0e2efd957247878213412118,4f09c1261f2856bbcb3574c37cef7d2e,65cbc4e2bc843a167aee62f36bb91857,ae6f89aac7151829681b85f035d54e48,ffb0b1a3838a1dfc0b40522eb88d90ea
+scheme: gdlookup
+host: localhost
+====reading 16384 bytes
+====reading 36167 bytes
+alts finished
+some body finished
+one not finished.
+offset = 2d6ab94
+some body finished
+one not finished.
+some body finished
+one not finished.
+some body finished
+one finished.
+erasing..
+erase done..
+one finished.
+erasing..
+erase done..
+one finished.
+erasing..
+erase done..
+====reading 16384 bytes
+getResource: gdlookup://localhost?word=deal&group=4294967294&scrollto=gdfrom-96da53adad8093c7e21a3d379397ac2d&muted=e9c2dd9a0e2efd957247878213412118,4f09c1261f2856bbcb3574c37cef7d2e,65cbc4e2bc843a167aee62f36bb91857,ae6f89aac7151829681b85f035d54e48,ffb0b1a3838a1dfc0b40522eb88d90ea
+scheme: gdlookup
+host: localhost
+====reading 16384 bytes
+====reading 36153 bytes
+alts finished
+some body finished
+one not finished.
+offset = 2d5d384
+someWarning: 1 tags were unclosed.
+clicked  QUrl( "gdau://96da53adad8093c7e21a3d379397ac2d/z_deal__gb_1.wav" )  
+ body finished
+one not finished.
+some body finished
+one not finished.
+some body finished
+one finished.
+erasing..
+erase done..
+one finished.
+erasing..
+erase done..
+one finished.
+erasing..
+erase done..
+====reading 45823 bytes
+getResource: bres://96da53adad8093c7e21a3d379397ac2d/x_verb_forms_deal.jpg
+scheme: bres
+host: 96da53adad8093c7e21a3d379397ac2d
+n is /usr/share/dict/2U02/x_verb_forms_deal.jpg
+====reading 16384 bytes
+====reading 15313 bytes
+getResource: gdau://96da53adad8093c7e21a3d379397ac2d/z_deal__gb_1.wav
+scheme: gdau
+host: 96da53adad8093c7e21a3d379397ac2d
+n is /usr/share/dict/2U02/z_deal__gb_1.wav
+getResource: gdlookup://localhost?word=happened&group=4294967294&muted=e9c2dd9a0e2efd957247878213412118,4f09c1261f2856bbcb3574c37cef7d2e,65cbc4e2bc843a167aee62f36bb91857,ae6f89aac7151829681b85f035d54e48,ffb0b1a3838a1dfc0b40522eb88d90ea
+scheme: gdlookup
+host: localhost
+====reading 16384 bytes
+====reading 36157 bytes
+alts finished
+Alt: happen
+some body finished
+one not finished.
+offset = 5059206
+some body finisWarning: 1 tags were unclosed.
+clicked  QUrl( "gdau://96da53adad8093c7e21a3d379397ac2d/z_happen__gb_1.wav" )  
+hed
+one not finished.
+some body finished
+one not finished.
+some body finished
+one finished.
+erasing..
+erase done..
+one finished.
+erasing..
+erase done..
+one finished.
+erasing..
+erase done..
+====reading 17422 bytes
+getResource: bres://96da53adad8093c7e21a3d379397ac2d/x_verb_forms_happen.jpg
+scheme: bres
+host: 96da53adad8093c7e21a3d379397ac2d
+n is /usr/share/dict/2U02/x_verb_forms_happen.jpg
+====reading 16384 bytes
+====reading 19608 bytes
+getResource: gdau://96da53adad8093c7e21a3d379397ac2d/z_happen__gb_1.wav
+scheme: gdau
+host: 96da53adad8093c7e21a3d379397ac2d
+n is /usr/share/dict/2U02/z_happen__gb_1.wav
+getResource: gdlookup://localhost?word=happened to&group=4294967294&muted=e9c2dd9a0e2efd957247878213412118,4f09c1261f2856bbcb3574c37cef7d2e,65cbc4e2bc843a167aee62f36bb91857,ae6f89aac7151829681b85f035d54e48,ffb0b1a3838a1dfc0b40522eb88d90ea
+scheme: gdlookup
+host: localhost
+====reading 16384 bytes
+====reading 36160 bytes
+alts finished
+some body finished
+one not finished.
+some body finished
+one finished.
+erasing..
+eWarning: 1 tags were unclosed.
+clicked  QUrl( "gdau://96da53adad8093c7e21a3d379397ac2d/z_happen__gb_1.wav" )  
+rase done..
+one finished.
+erasing..
+erase done..
+one finished.
+erasing..
+erase done..
+====reading 16384 bytes
+getResource: gdlookup://localhost?word=happened&group=4294967294&muted=e9c2dd9a0e2efd957247878213412118,4f09c1261f2856bbcb3574c37cef7d2e,65cbc4e2bc843a167aee62f36bb91857,ae6f89aac7151829681b85f035d54e48,ffb0b1a3838a1dfc0b40522eb88d90ea
+scheme: gdlookup
+host: localhost
+====reading 16384 bytes
+====reading 36157 bytes
+alts finished
+Alt: happen
+some body finished
+one not finished.
+offset = 5059206
+some body finished
+one finished.
+erasing..
+erase done..
+one finished.
+erasing..
+erase done..
+one finished.
+erasing..
+erase done..
+====reading 17422 bytes
+getResource: gdau://96da53adad8093c7e21a3d379397ac2d/z_happen__gb_1.wav
+scheme: gdau
+host: 96da53adad8093c7e21a3d379397ac2d
+n is /usr/share/dict/2U02/z_happen__gb_1.wav
+getResource: gdlookup://localhost?word=find out&group=4294967294&muted=e9c2dd9a0e2efd957247878213412118,4f09c1261f2856bbcb3574c37cef7d2e,65cbc4e2bc843a167aee62f36bb91857,ae6f89aac7151829681b85f0Warning: 1 tags were unclosed.
+35d54e48,ffb0b1a3838a1dfc0b40522eb88d90ea
+scheme: gdlookup
+host: localhost
+====reading 16384 bytes
+====reading 36157 bytes
+alts finished
+some body finished
+one not finished.
+offset = 4282454
+some body finished
+one not finished.
+some body finished
+one not finished.
+offset = 4282454
+some body finished
+one finished.
+erasing..
+erase done..
+one finished.
+erasing..
+erase done..
+one finished.
+erasing..
+erase done..
+====reading 16384 bytes
+getResource: gdlookup://localhost?word=严重&group=4294967294&muted=e9c2dd9a0e2efd957247878213412118,4f09c1261f2856bbcb3574c37cef7d2e,65cbc4e2bc843a167aee62f36bb91857,ae6f89aac7151829681b85f035d54e48,ffb0b1a3838a1dfc0b40522eb88d90ea
+scheme: gdlookup
+host: localhost
+alts finished
+some body finished
+one not finished.
+====reading 16384 bytes
+====reading 36155 bytes
+some body finished
+one finished.
+erasing..
+erase done..
+one finished.
+erasing..
+erase done..
+one finished.
+erasing..
+erase done..
+====reading 16384 bytes
+getResource: gdlookup://localhost?word=严重地&group=4294967294&muWarning: 1 tags were unclosed.
+ted=e9c2dd9a0e2efd957247878213412118,4f09c1261f2856bbcb3574c37cef7d2e,65cbc4e2bc843a167aee62f36bb91857,ae6f89aac7151829681b85f035d54e48,ffb0b1a3838a1dfc0b40522eb88d90ea
+scheme: gdlookup
+host: localhost
+====reading 16384 bytes
+====reading 36158 bytes
+alts finished
+some body finished
+one not finished.
+some body finished
+one finished.
+erasing..
+erase done..
+one finished.
+erasing..
+erase done..
+one finished.
+erasing..
+erase done..
+====reading 16384 bytes
+getResource: gdlookup://localhost?word=guy&group=4294967294&muted=e9c2dd9a0e2efd957247878213412118,4f09c1261f2856bbcb3574c37cef7d2e,65cbc4e2bc843a167aee62f36bb91857,ae6f89aac7151829681b85f035d54e48,ffb0b1a3838a1dfc0b40522eb88d90ea
+scheme: gdlookup
+host: localhost
+====reading 16384 bytes
+====reading 36152 bytes
+alts finished
+some body finished
+one not finished.
+offset = 4f380aa
+some body finished
+one not finished.
+some body finished
+one not finished.
+some body finished
+one finished.
+erasing..
+erase done..
+one finished.
+erasing..
+erase done..
+one finished.
+erasing.clicked  QUrl( "gdau://96da53adad8093c7e21a3d379397ac2d/z_guy__gb_1.wav" )  
+Warning: 1 tags were unclosed.
+.
+erase done..
+====reading 16384 bytes
+getResource: gdau://96da53adad8093c7e21a3d379397ac2d/z_guy__gb_1.wav
+scheme: gdau
+host: 96da53adad8093c7e21a3d379397ac2d
+n is /usr/share/dict/2U02/z_guy__gb_1.wav
+getResource: gdlookup://localhost?word=roll in &group=4294967294&muted=e9c2dd9a0e2efd957247878213412118,4f09c1261f2856bbcb3574c37cef7d2e,65cbc4e2bc843a167aee62f36bb91857,ae6f89aac7151829681b85f035d54e48,ffb0b1a3838a1dfc0b40522eb88d90ea
+scheme: gdlookup
+host: localhost
+====reading 16384 bytes
+====reading 36156 bytes
+alts finished
+some body finished
+one not finished.
+offset = 935485a
+some body finished
+one not finished.
+some body finished
+one not finished.
+some body finished
+one finished.
+erasing..
+erase done..
+one finished.
+erasing..
+erase done..
+one finished.
+erasing..
+erase done..
+====reading 16384 bytes
+getResource: gdlookup://localhost?word=roll in the hay&group=4294967294&muted=e9c2dd9a0e2efd957247878213412118,4f09c1261f2856bbcb3574c37cef7d2e,65cbc4e2bc843a167aee62f36bb91857,ae6f89aac7151829681b85f035d54e48Warning: 1 tags were unclosed.
+Warning: 1 tags were unclosed.
+,ffb0b1a3838a1dfc0b40522eb88d90ea
+scheme: gdlookup
+host: localhost
+====reading 16384 bytes
+====reading 36164 bytes
+alts finished
+some body finished
+one not finished.
+offset = 36e6c
+some body finished
+one finished.
+erasing..
+erase done..
+one finished.
+erasing..
+erase done..
+one finished.
+erasing..
+erase done..
+====reading 16384 bytes
+getResource: gdlookup://localhost?word=roll in his grave&group=4294967294&muted=e9c2dd9a0e2efd957247878213412118,4f09c1261f2856bbcb3574c37cef7d2e,65cbc4e2bc843a167aee62f36bb91857,ae6f89aac7151829681b85f035d54e48,ffb0b1a3838a1dfc0b40522eb88d90ea
+scheme: gdlookup
+host: localhost
+====reading 16384 bytes
+====reading 36166 bytes
+alts finished
+some body finished
+one not finished.
+offset = b4dc2ea
+some body finished
+one not finished.
+some body finished
+one not finished.
+some body finished
+one finished.
+erasing..
+erase done..
+one finished.
+erasing..
+erase done..
+one finished.
+erasing..
+erase done..
+====reading 16384 bytes
+getResource: gdlookup://localhost?word=guys&group=4294967294&muted=Warning: 1 tags were unclosed.
+clicked  QUrl( "gdau://96da53adad8093c7e21a3d379397ac2d/z_guy__gb_1.wav" )  
+e9c2dd9a0e2efd957247878213412118,4f09c1261f2856bbcb3574c37cef7d2e,65cbc4e2bc843a167aee62f36bb91857,ae6f89aac7151829681b85f035d54e48,ffb0b1a3838a1dfc0b40522eb88d90ea
+scheme: gdlookup
+host: localhost
+====reading 16384 bytes
+====reading 36153 bytes
+alts finished
+Alt: guy
+some body finished
+one not finished.
+offset = 4f380aa
+some body finished
+one finished.
+erasing..
+erase done..
+one finished.
+erasing..
+erase done..
+one finished.
+erasing..
+erase done..
+====reading 16384 bytes
+getResource: gdau://96da53adad8093c7e21a3d379397ac2d/z_guy__gb_1.wav
+scheme: gdau
+host: 96da53adad8093c7e21a3d379397ac2d
+n is /usr/share/dict/2U02/z_guy__gb_1.wav
+getResource: gdlookup://localhost?word=工作狂&group=4294967294&muted=e9c2dd9a0e2efd957247878213412118,4f09c1261f2856bbcb3574c37cef7d2e,65cbc4e2bc843a167aee62f36bb91857,ae6f89aac7151829681b85f035d54e48,ffb0b1a3838a1dfc0b40522eb88d90ea
+scheme: gdlookup
+host: localhost
+====reading 16384 bytes
+====reading 36158 bytes
+alts finished
+some body finished
+one not finished.
+some body finished
+one finished.
+erasing..
+erase done..
+one finished.
+erasing..
+erase done..
+one finished.
+erasing..
+erase done..
+====reading 16384 bytes
+====reading 16384 bytes
+getResource: gdlookup://localhost?word=工作过度&group=4294967294&muted=e9c2dd9a0e2efd957247878213412118,4f09c1261f2856bbcb3574c37cef7d2e,65cbc4e2bc843a167aee62f36bb91857,ae6f89aac7151829681b85f035d54e48,ffb0b1a3838a1dfc0b40522eb88d90ea
+scheme: gdlookup
+host: localhost
+====reading 16384 bytes
+====reading 36161 bytes
+alts finished
+some body finished
+one not finished.
+some body finished
+one finished.
+erasing..
+erase done..
+one finished.
+erasing..
+erase done..
+one finished.
+erasing..
+erase done..
+====reading 16384 bytes
+getResource: gdlookup://localhost?word=overwork&group=4294967294&scrollto=gdfrom-1086d40da64afc0778dd6540ff097b9f&muted=e9c2dd9a0e2efd957247878213412118,4f09c1261f2856bbcb3574c37cef7d2e,65cbc4e2bc843a167aee62f36bb91857,ae6f89aac7151829681b85f035d54e48,ffb0b1a3838a1dfc0b40522eb88d90ea
+scheme: gdlookup
+host: localhost
+====reading 16384Warning: 1 tags were unclosed.
+clicked  QUrl( "gdau://96da53adad8093c7e21a3d379397ac2d/z_overwork__gb_1.wav" )  
+ bytes
+====reading 36157 bytes
+alts finished
+some body finished
+one not finished.
+offset = 79d80be
+some body finished
+one not finished.
+some body finished
+one not finished.
+some body finished
+one finished.
+erasing..
+erase done..
+one finished.
+erasing..
+erase done..
+one finished.
+erasing..
+erase done..
+====reading 16384 bytes
+getResource: bres://96da53adad8093c7e21a3d379397ac2d/x_verb_forms_overwork.jpg
+scheme: bres
+host: 96da53adad8093c7e21a3d379397ac2d
+n is /usr/share/dict/2U02/x_verb_forms_overwork.jpg
+====reading 16384 bytes
+====reading 24683 bytes
+getResource: gdau://96da53adad8093c7e21a3d379397ac2d/z_overwork__gb_1.wav
+scheme: gdau
+host: 96da53adad8093c7e21a3d379397ac2d
+n is /usr/share/dict/2U02/z_overwork__gb_1.wav
+getResource: gdlookup://localhost?word=bind&group=4294967294&muted=e9c2dd9a0e2efd957247878213412118,4f09c1261f2856bbcb3574c37cef7d2e,65cbc4e2bc843a167aee62f36bb91857,ae6f89aac7151829681b85f035d54e48,ffb0b1a3838a1dfc0b40522eb88d90ea
+scheme: gdlookup
+host: localhost
+====reading 16384 bytes
+====Warning: 1 tags were unclosed.
+clicked  QUrl( "gdau://96da53adad8093c7e21a3d379397ac2d/z_bind__gb_1.wav" )  
+reading 36153 bytes
+alts finished
+some body finished
+one not finished.
+offset = 13325b6
+some body finished
+one not finished.
+some body finished
+one not finished.
+some body finished
+one finished.
+erasing..
+erase done..
+one finished.
+erasing..
+erase done..
+one finished.
+erasing..
+erase done..
+====reading 17054 bytes
+getResource: bres://96da53adad8093c7e21a3d379397ac2d/x_verb_forms_bind.jpg
+scheme: bres
+host: 96da53adad8093c7e21a3d379397ac2d
+n is /usr/share/dict/2U02/x_verb_forms_bind.jpg
+====reading 16384 bytes
+====reading 22128 bytes
+getResource: gdau://96da53adad8093c7e21a3d379397ac2d/z_bind__gb_1.wav
+scheme: gdau
+host: 96da53adad8093c7e21a3d379397ac2d
+n is /usr/share/dict/2U02/z_bind__gb_1.wav
+getResource: gdlookup://localhost?word=major&group=4294967294&muted=e9c2dd9a0e2efd957247878213412118,4f09c1261f2856bbcb3574c37cef7d2e,65cbc4e2bc843a167aee62f36bb91857,ae6f89aac7151829681b85f035d54e48,ffb0b1a3838a1dfc0b40522eb88d90ea
+scheme: gdlookup
+host: localhost
+====reading 16384 bytes
+====reading 36154 bytes
+alts fWarning: 1 tags were unclosed.
+clicked  QUrl( "gdau://96da53adad8093c7e21a3d379397ac2d/z_major__gb_1.wav" )  
+
+(gedit:2289): Gtk-CRITICAL **: gtk_text_buffer_remove_tag: assertion `tag->priv->table == buffer->priv->tag_table' failed
+
+(gedit:2289): Gtk-CRITICAL **: gtk_text_tag_table_remove: assertion `tag->priv->table == table' failed
+QClipboard: Unable to receive an event from the clipboard manager in a reasonable time
+kdeinit4: Fatal IO error: client killed
+klauncher: Exiting on signal 15
+kdeinit4: kded4 [kdeinit]: Fatal IO error 11 (Resource temporarily unavailable) on X server :0.0.
+g_dbus_connection_real_closed: Remote peer vanished with error: Underlying GIOStream returned 0 bytes on an async read (g-io-error-quark, 0). Exiting.
