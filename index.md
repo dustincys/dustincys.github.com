@@ -15,7 +15,7 @@ Problem is , biology enlightens bioinfo guys that organisms are dying as time pa
 [template]: http://sdrv.ms/13MfJSN
 [snake]:  http://yanshuo.name/cn/2013/02/snake/
 [fishing]:  http://yanshuo.name/cn/2011/08/poker/
-[NCBI_GI2AGI]:  http://ishare.iask.sina.com.cn/f/21695346.html
+[NCBI_GI2AGI]:  http://yanshuo.name/cn/2011/12/NCBIGIAGI/
 
 
 ### 我
