@@ -1527,3 +1527,372 @@ g_dbus_connection_real_closed: Remote peer vanished with error: Underlying GIOSt
 (gedit:2385): Gtk-WARNING **: Ignoring visual set on widget `gtk-tooltip' that is not on the correct screen.
 
 (gedit:2385): Gtk-WARNING **: Ignoring visual set on widget `gtk-tooltip' that is not on the correct screen.
+Warning: 1 tags were unclosed.
+Load done
+getResource: gdlookup://localhost?blank=1
+scheme: gdlookup
+host: localhost
+getResource: gdlookup://localhost?blank=1
+scheme: gdlookup
+host: localhost
+getResource: gdlookup://localhost?word=Welcome!&group=4294967295
+scheme: gdlookup
+host: localhost
+In-place finish.
+====reading 16384 bytes
+====reading 37579 bytes
+Loading 3 abbrv
+Loading 4 abbrv
+getResource: http://goldendict.org/latest_release.php?current=1.0.1+git&platform=x11
+scheme: http
+host: goldendict.org
+Program version's check successful, current version is 1.0.1
+getResource: gdlookup://localhost?word=eulogy&group=4294967294&muted=e9c2dd9a0e2efd957247878213412118,ae6f89aac7151829681b85f035d54e48,ffb0b1a3838a1dfc0b40522eb88d90ea
+scheme: gdlookup
+host: localhost
+====reading 16384 bytes
+====reading 36633 bytes
+alts finished
+offset = 3c62af4
+offset = 11721dc
+some body finished
+one not finished.
+some body finished
+one not finished.
+some body finished
+one not finished.
+some body finished
+one not finished.
+some body finished
+one finished.
+erasing..
+erase done..
+one finished.
+erasing..
+erase done..
+one finished.
+erasing..
+erase done..
+one finished.
+erasing..
+erase done..
+one finished.
+erasing..
+erase done..
+====reading 16384 bytes
+getResource: http://dict.youdao.com/search?q=eulogy&keyfrom=dict.index
+scheme: http
+host: dict.youdao.com
+getResource: http://shared.ydstatic.com/dict/v5.15/styles/result-min.css
+scheme: http
+host: shared.ydstatic.com
+getResource: http://shared.ydstatic.com/dict/v5.15/styles/pad.css
+scheme: http
+host: shared.ydstatic.com
+getResource: http://oimagec3.ydstatic.com/image?url=http://www.publispain.com/posters/eulogy.jpg&product=PICDICT_EDIT
+scheme: http
+host: oimagec3.ydstatic.com
+getResource: http://shared.ydstatic.com/js/suggest/autocomplete.r156903.js
+scheme: http
+host: shared.ydstatic.com
+getResource: http://shared.ydstatic.com/dict/v5.15/scripts/result-min.js
+scheme: http
+host: shared.ydstatic.com
+getResource: http://analytics.163.com/ntes.js
+scheme: http
+host: analytics.163.com
+getResource: http://dict.youdao.com/getimage?image=5543372394107210583.jpg
+scheme: http
+host: dict.youdao.com
+getResource: http://shared.ydstatic.com/dict/v5.15/styles/skin.png
+scheme: http
+host: shared.ydstatic.com
+getResource: http://shared.ydstatic.com/dict/v5.15/images/logo-result.png
+scheme: http
+host: shared.ydstatic.com
+getResource: http://shared.ydstatic.com/dict/v5.15/images/pic.gif
+scheme: http
+host: shared.ydstatic.com
+getResource: http://shared.ydstatic.com/dict/v5.15/styles/new-sprite.png
+scheme: http
+host: shared.ydstatic.com
+getResource: http://impservice.dictapp.youdao.com/imp/request.s?req=http://dict.youdao.com&syndid=63&memberid=635&width=960&height=240&callback=gotAdDataCallback&_=1379829448562
+scheme: http
+host: impservice.dictapp.youdao.com
+getResource: http://rlogs.youdao.com/rlog.js
+scheme: http
+host: rlogs.youdao.com
+getResource: http://impservice.dictapp.youdao.com/imp/request.s?req=http://dict.youdao.com&doctype=dw&memberid=110636&tn=text_250_250&width=250&height=250&posid=203&ref2=http://dict.youdao.com&syndid=57&time=1379829448882
+scheme: http
+host: impservice.dictapp.youdao.com
+getResource: http://impservice.dictapp.youdao.com/imp/request.s?req=http://dict.youdao.com&doctype=dw&memberid=110636&tn=text_960_60&width=960&height=60&posid=202&ref2=http://dict.youdao.com&syndid=57&time=1379829448884
+scheme: http
+host: impservice.dictapp.youdao.com
+getResource: http://impservice.dictapp.youdao.com/imp/request.s?req=http://dict.youdao.com&doctype=dws&syndid=57&posid=0&memberid=110636&tn=text_250_320&width=250&height=320&ref2=http://dict.youdao.com/&time=1379829448885
+scheme: http
+host: impservice.dictapp.youdao.com
+getResource: http://analytics.163.com/ntes?_nacc=yddictweb&_nvid=5ddd43629cc78d7c2a97ea95a571bc8f&_nvtm=0&_nvsf=0&_nvfi=1&_nlag=zh-cn&_nlmf=1379800648&_nres=1366x768&_nscd=24-bit&_nstm=0&_nurl=http://dict.youdao.com/search?q=eulogy&keyfrom=dict.index&_ntit=%u3010eulogy%u3011%u4EC0%u4E48%u610F%u601D_%u82F1%u8BEDeulogy%u5728%u7EBF%u7FFB%u8BD1_%u6709%u9053%u8BCD%u5178&_nref=&_nfla=&_nssn=&_nxkey=94485830.94398&_end1
+scheme: http
+host: analytics.163.com
+getResource: http://rlogs.youdao.com/rlog.php?_npid=dictweb&_ncat=pageview&_nssn=NULL&_ncoo=-1625869572@221.212.176.77&_nver=0.14&_nref=&_nres=1366x768&_nlmf=1379800648&_njve=0&_nchr=utf-8&_ntms=1379829449
+scheme: http
+host: rlogs.youdao.com
+getResource: http://shared.youdao.com/images/logos/small/youdao-ead-union-logo-y-red.png
+scheme: http
+host: shared.youdao.com
+getResource: http://oimageb1.ydstatic.com/image?id=2938132690940461026&product=adpublish&w=250&h=250
+scheme: http
+host: oimageb1.ydstatic.com
+getResource: http://oimageb2.ydstatic.com/image?id=-7062441100274510210&product=adpublish
+scheme: http
+host: oimageb2.ydstatic.com
+getResource: http://impservice.union.youdao.com/imp/cac.js
+scheme: http
+host: impservice.union.youdao.com
+getResource: http://dsp.youdao.com/cf.gif?source=EADD
+scheme: http
+host: dsp.youdao.com
+getResource: http://cm.g.doubleclick.net/pixel?google_nid=youdao&google_cm&google_sc&extg=2tg
+scheme: http
+host: cm.g.doubleclick.net
+getResource: http://cm.g.doubleclclicked  QUrl( "gdau://96da53adad8093c7e21a3d379397ac2d/z_eulogy__gb_1.wav" )  
+ick.net/pixel?google_nid=youdao&google_cm=&google_sc=&extg=2tg&google_tc=
+scheme: http
+host: cm.g.doubleclick.net
+getResource: http://dsp.youdao.com/cmg.gif?google_nid=youdao&google_sc=&google_cm=&extg=2tg&google_gid=CAESEIi_dWBjiQ-0Fry3IHD4MSQ&google_cver=1
+scheme: http
+host: dsp.youdao.com
+getResource: http://acookie.tanx.com/cms.gif?id=31386391&extendata=1t
+scheme: http
+host: acookie.tanx.com
+getResource: http://hz.mmstat.com/a?XzOzGe85AA=1745438547&K9g5CWjDh9=yyI0XLUMVo7mEMicc144oF-LcucYJXsrH5ya17nYTUJgCbtfsxxXl6fnghQs.A8k4cfmUccZEelMCqaPwqN3gg__
+scheme: http
+host: hz.mmstat.com
+getResource: http://acookie.tanx.com/cms.gif?id=31386391&extendata=1t&XzOzGe85AA=625875094&a3G4ApKGeL=c7EFm4.YjW1v06.Yvyj2QQ.7ELFqLzyWGia9X4-OYts_
+scheme: http
+host: acookie.tanx.com
+getResource: http://dsp.youdao.com/cmt.gif?tid=Kr_sn0LFYQ4=&ver=1&extendata=1t
+scheme: http
+host: dsp.youdao.com
+getResource: gdau://96da53adad8093c7e21a3d379397ac2d/z_eulogy__gb_1.wav
+scheme: gdau
+host: 96da53adad8093c7e21a3d379397ac2d
+n is /usr/sharConnecting to deprecated signal QDBusConnectionInterface::serviceOwnerChanged(QString,QString,QString)
+QDBusConnection: session D-Bus connection created before QCoreApplication. Application may misbehave.
+QDBusConnection: session D-Bus connection created before QCoreApplication. Application may misbehave.
+kbuildsycoca4 running...
+kbuildsycoca4(2649) KBuildSycoca::checkTimestamps: checking file timestamps
+kbuildsycoca4(2649) KBuildSycoca::checkTimestamps: timestamps check ok
+kbuildsycoca4(2649) kdemain: Emitting notifyDatabaseChanged ()
+Warning: 1 tags were unclosed.
+clicked  QUrl( "gdau://96da53adad8093c7e21a3d379397ac2d/z_eulogy__gb_1.wav" )  
+e/dict/2U02/z_eulogy__gb_1.wav
+getResource: gdlookup://localhost?word=eulogy&group=4294967294&&muted=e9c2dd9a0e2efd957247878213412118,4f09c1261f2856bbcb3574c37cef7d2e,ae6f89aac7151829681b85f035d54e48,ffb0b1a3838a1dfc0b40522eb88d90ea
+scheme: gdlookup
+host: localhost
+====reading 16384 bytes
+====reading 36633 bytes
+alts finished
+some body finished
+one not finished.
+offset = 3c62af4
+some body finished
+one finished.
+erasing..
+erase done..
+one finished.
+erasing..
+erase done..
+one finished.
+erasing..
+erase done..
+one finished.
+erasing..
+erase done..
+====reading 16384 bytes
+getResource: http://dict.youdao.com/search?q=eulogy&keyfrom=dict.index
+scheme: http
+host: dict.youdao.com
+getResource: gdau://96da53adad8093c7e21a3d379397ac2d/z_eulogy__gb_1.wav
+scheme: gdau
+host: 96da53adad8093c7e21a3d379397ac2d
+n is /usr/share/dict/2U02/z_eulogy__gb_1.wav
+getResource: gdlookup://localhost?word=eulogy&group=4294967294&&&muted=e9c2dd9a0e2efd957247878213412118,4f09c1261f2856bbcb3574c37cef7d2e,65cbc4e2bc843a167aee62f36bb91857,ae6f89Warning: 1 tags were unclosed.
+clicked  QUrl( "gdau://96da53adad8093c7e21a3d379397ac2d/z_eulogy__gb_1.wav" )  
+Warning: 1 tags were unclosed.
+aac7151829681b85f035d54e48,ffb0b1a3838a1dfc0b40522eb88d90ea
+scheme: gdlookup
+host: localhost
+====reading 16384 bytes
+====reading 36633 bytes
+alts finished
+some body finished
+one not finished.
+offset = 3c62af4
+some body finished
+one finished.
+erasing..
+erase done..
+one finished.
+erasing..
+erase done..
+one finished.
+erasing..
+erase done..
+====reading 16384 bytes
+getResource: gdau://96da53adad8093c7e21a3d379397ac2d/z_eulogy__gb_1.wav
+scheme: gdau
+host: 96da53adad8093c7e21a3d379397ac2d
+n is /usr/share/dict/2U02/z_eulogy__gb_1.wav
+getResource: gdlookup://localhost?word=eulogy&group=4294967294&&&&muted=e9c2dd9a0e2efd957247878213412118,4f09c1261f2856bbcb3574c37cef7d2e,65cbc4e2bc843a167aee62f36bb91857,af15fe354ff02d814a349ce05f7e0009,ae6f89aac7151829681b85f035d54e48,ffb0b1a3838a1dfc0b40522eb88d90ea
+scheme: gdlookup
+host: localhost
+====reading 16384 bytes
+====reading 36633 bytes
+alts finished
+some body finished
+one not finished.
+offset = 3c62af4
+some body finished
+one finished.
+erasing..
+erase done..
+one finished.
+eraclicked  QUrl( "gdau://96da53adad8093c7e21a3d379397ac2d/z_eulogy__gb_1.wav" )  
+Aborting aboutToFinish handling. 
+Warning: 1 tags were unclosed.
+clicked  QUrl( "gdau://96da53adad8093c7e21a3d379397ac2d/z_eulogy__gb_1.wav" )  
+sing..
+erase done..
+====reading 16384 bytes
+getResource: gdau://96da53adad8093c7e21a3d379397ac2d/z_eulogy__gb_1.wav
+scheme: gdau
+host: 96da53adad8093c7e21a3d379397ac2d
+n is /usr/share/dict/2U02/z_eulogy__gb_1.wav
+request begin
+getResource: gdlookup://localhost?word=eulogy&group=4294967294&&&&&muted=e9c2dd9a0e2efd957247878213412118,4f09c1261f2856bbcb3574c37cef7d2e,65cbc4e2bc843a167aee62f36bb91857,af15fe354ff02d814a349ce05f7e0009,ffb0b1a3838a1dfc0b40522eb88d90ea
+scheme: gdlookup
+host: localhost
+====reading 16384 bytes
+====reading 36633 bytes
+alts finished
+Requesting article eulogy
+some body finished
+one not finished.
+offset = 3c62af4
+some body finished
+one finished.
+erasing..
+erase done..
+one finished.
+erasing..
+erase done..
+one not finished.
+====reading 16384 bytes
+some body finished
+one not finished.
+getResource: gdau://96da53adad8093c7e21a3d379397ac2d/z_eulogy__gb_1.wav
+scheme: gdau
+host: 96da53adad8093c7e21a3d379397ac2d
+n is /usr/share/dict/2U02/z_eulogy__gb_1.wav
+getResource: gdlookup://localhost?word=euloWarning: 1 tags were unclosed.
+Aborting aboutToFinish handling. 
+gy&group=4294967294&&&&&&muted=e9c2dd9a0e2efd957247878213412118,4f09c1261f2856bbcb3574c37cef7d2e,65cbc4e2bc843a167aee62f36bb91857,af15fe354ff02d814a349ce05f7e0009,1086d40da64afc0778dd6540ff097b9f,ffb0b1a3838a1dfc0b40522eb88d90ea
+scheme: gdlookup
+host: localhost
+alts finished
+Requesting article eulogy
+some body finished
+one not finished.
+offset = 3c62af4
+request end
+request begin
+====reading 16384 bytes
+====reading 36633 bytes
+some body finished
+one finished.
+erasing..
+erase done..
+one not finished.
+====reading 16384 bytes
+Finished.
+Article body after: <div class="dablink">For other uses, see <a href="Eulogy (disambiguation)" title="Eulogy (disambiguation)">Eulogy (disambiguation)</a>.</div>
+<dl>
+<dd><i>Not to be confused with <a href="Elegy" title="Elegy">elegy</a>.</i></dd>
+</dl>
+<table class="metadata mbox-small plainlinks" style="border:1px solid #aaa; background-color:#f9f9f9;">
+<tr>
+<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Wiktionary-logo-en.svg/37px-Wiktionary-logo-en.svg.png" width="37" height="40" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Wiktionary-logo-en.svg/55px-Wiktionary-logo-en.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Wiktionary-logo-en.svg/73px-Wiktionary-logo-en.svg.png 2x" /></td>
+<td class="mbox-text plainlist" style="">Look up <i><b><a href="eulogy" class="extiw" title="wiktionary:eulogy">eulogy</a></b></i> in Wiktionary, the free dictionary.</td>
+</tr>
+</table>
+<p>A <b>eulogy</b> (from <i>εὐλογία</i>, eulogia, <a href="Ancient Greek language" title="Ancient Greek language" class="mw-redirect">Classical Greek</a> for "praise") is a <a href="Speech (public address)" title="Speech (public address)" class="mw-redirect">speech</a> or writing in <a href="Praise" title="Praise">praise</a> of a person(s) or thing(s), especially one recently <a href="Deceased" title="Deceased" class="mw-redirect">dead</a> or <a href="Retired" title="Retired" class="mw-redirect">retired</a>.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1"><span>[</span>1<span>]</span></a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2"><span>[</span>2<span>]</span></a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3"><span>[</span>3<span>]</span></a></sup></p>
+<p>Eulogies may be given as part of <a href="Funeral service" title="Funeral service" class="mw-redirect">funeral services</a>. They take place in a funeral home during or after a wake. However, some denominations either discourage or do not permit eulogies at services to maintain respect for traditions. Eulogies can also praise people who are still alive. This normally takes place on special occasions like <a href="Birthday" title="Birthday">birthdays</a> etc. Eulogies should not be confused with <a href="Elegy" title="Elegy">elegies</a>, which are <a href="Poem" title="Poem" class="mw-redirect">poems</a> written in tribute to the dead; nor with <a href="Obituary" title="Obituary">obituaries</a>, which are published <a href="Biography" title="Biography">biographies</a> recounting the lives of those who have recently died; nor with <a href="Obsequy" title="Obsequy" class="mw-redirect">obsequies</a>, which refer generally to the <a href="Ritual" title="Ritual">rituals</a> surrounding funerals. <a href="Catholic" title="Catholic" class="mw-redirect">Catholic</a> priests are prohibited by the rubrics of the Mass from presenting a eulogy for the deceased in place of a <a href="Homily" title="Homily">homily</a> during a funeral <a href="Mass (liturgy)" title="Mass (liturgy)">Mass</a>.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4"><span>[</span>4<span>]</span></a></sup></p>
+<p>Eulogies are usually delivered by a family member or a close family friend in the case of a dead person.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5"><span>[</span>5<span>]</span></a></sup> For a living eulogy given in such cases as a retirement, a senior colleague could perhaps deliver it. On occasions, eulogies are given to those who are severely ill or elderly in order to express words of love and gratitude before they pass away.</p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="http://en.wikipedia.org/w/index.php?title=Eulogy&amp;action=edit&amp;section=1" title="Edit section: See also">edit source</a><span class="mw-editsection-divider"> | </span><a href="http://en.wikipedia.org/w/index.php?title=Eulogy&amp;veaction=edit&amp;section=1" title="Edit section: See also" class="mw-editsection-visualeditor">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="metadata mbox-small plainlinks" style="border:1px solid #aaa; background-color:#f9f9f9;">
+<tr>
+<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/38px-Wikisource-logo.svg.png" width="38" height="40" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/57px-Wikisource-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/76px-Wikisource-logo.svg.png 2x" /></td>
+<td class="mbox-text plainlist" style="">Wikisource has several original texts related to: <i><b><a href="Category:Eulogies" class="extiw" title="wikisource:Category:Eulogies">Eulogies</a></b></i></td>
+</tr>
+</table>
+<ul>
+<li><a href="Consolatio" title="Consolatio">Consolatio</a></li>
+<li><a href="Funeral oration (ancient Greece)" title="Funeral oration (ancient Greece)">Funeral oration (ancient Greece)</a></li>
+<li><a href="Obituary" title="Obituary">Obituary</a></li>
+<li><a href="Panegyric" title="Panegyric">Panegyric</a></li>
+<li><a href="Requiem" title="Requiem">Requiem</a></li>
+<li><a href="Types of speeches" title="Types of speeches" class="mw-redirect">Types of speeches</a></li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="http://en.wikipedia.org/w/index.php?title=Eulogy&amp;action=edit&amp;section=2" title="Edit section: References">edit source</a><span class="mw-editsection-divider"> | </span><a href="http://en.wikipedia.org/w/index.php?title=Eulogy&amp;veaction=edit&amp;section=2" title="Edit section: References" class="mw-editsection-visualeditor">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://oxforddictionaries.com/us/definition/american_english/eulogy?q=eulogy">Oxford Dictionaries</a>.</span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://georgewbush-whitehouse.archives.gov/news/releases/2004/06/20040611-2.html">President Bush's Eulogy at</a> <a href="Funeral" title="Funeral">Funeral Service</a> for President Reagan</span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><span class="citation web">EulogySpeech.net. <a rel="nofollow" class="external text" href="http://www.eulogyspeech.net">"Funeral Speech"</a>. Eulogyspeech.net<span class="reference-accessdate">. Retrieved 2012-05-14</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEulogy&amp;rft.au=EulogySpeech.net&amp;rft.aulast=EulogySpeech.net&amp;rft.btitle=Funeral+Speech&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.eulogyspeech.net&amp;rft.pub=Eulogyspeech.net&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.vatican.va/roman_curia/congregations/ccdds/documents/rc_con_ccdds_doc_20030317_ordinamento-messale_en.html#II._MASSES_FOR_THE_DEAD">The General Instruction of the Roman Missal 382</a>.</span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><span class="citation web">InspirationalEulogy.com. <a rel="nofollow" class="external text" href="http://www.inspirationaleulogy.com">"Memorial tribute"</a>. inspirationaleulogy.com<span class="reference-accessdate">. Retrieved 2013-04-03</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEulogy&amp;rft.au=InspirationalEulogy.com&amp;rft.aulast=InspirationalEulogy.com&amp;rft.btitle=Memorial+tribute&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.inspirationaleulogy.com&amp;rft.pub=inspirationaleulogy.com&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+</ol>
+</div>
+
+
+<!-- 
+NewPP limit report
+CPU time usage: 0.272 seconds
+Realclicked  QUrl( "gdau://96da53adad8093c7e21a3d379397ac2d/z_eulogy__gb_1.wav" )  
+ time usage: 0.320 seconds
+Preprocessor visited node count: 411/1000000
+Preprocessor generated node count: 2769/1500000
+Post‐expand include size: 5179/2048000 bytes
+Template argument size: 747/2048000 bytes
+Highest expansion depth: 9/40
+Expensive parser function count: 0/500
+Lua time usage: 0.014s
+Lua memory usage: 845 KB
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:231130-0!*!0!!*!4!* and timestamp 20130831192825 -->
+
+done.
+some body finished
+one finished.
+erasing..
+erase done..
+====reading 16384 bytes
+getResource: gdlookup://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Wiktionary-logo-en.svg/37px-Wiktionary-logo-en.svg.png
+scheme: gdlookup
+host: upload.wikimedia.org
+getResource: gdlookup://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/38px-Wikisource-logo.svg.png
+scheme: gdlookup
+host: upload.wikimedia.org
+getResource: gdlookup://localhost/bullet.gif
+scheme: gdlookup
+host: localhost
+getResource: gdau://96da53adad8093c7e21a3d379397ac2d/z_eulogy__gb_1.wav
+schemeWarning: 1 tags were unclosed.
+Aborting aboutToFinish handling. 
+clicked  QUrl( "gdau://96da53adad8093c7e21a3d379397ac2d/z_eulogy__gb_1.wav" )  
+kdeinit4: Fatal IO error: client killed
+kdeinit4: kded4 [kdeinit]: Fatal IO error 11 (Resource temporarily unavailable) on X server :0.0.
+klauncher: Exiting on signal 15
+g_dbus_connection_real_closed: Remote peer vanished with error: Underlying GIOStream returned 0 bytes on an async read (g-io-error-quark, 0). Exiting.
