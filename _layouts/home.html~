@@ -11,7 +11,7 @@
 	background-color: #F8F8F8;	
   }
 li, p {
-font-family:Monaco;
+font-family:Monaco, Consolas;
 }
   .container > footer p , .postheader > a{
     text-align: center;
