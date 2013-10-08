@@ -36,7 +36,6 @@ font-family:Monaco, Consolas;
 <script src="http://tjs.sjs.sinajs.cn/open/api/js/wb.js" type="text/javascript" charset="utf-8"></script>
 
 
-
   <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
@@ -62,14 +61,18 @@ font-family:Monaco, Consolas;
 {{ content }}
 
 <div id="wb_follow_btn"></div>
-					<script>
-					WB2.anyWhere(function(W){
-						W.widget.followButton({
-							'nick_name': '初砚硕',	//用户昵称
-							'id': "wb_follow_btn"
-						});
-					});
-					</script>
+<script>
+WB2.anyWhere(function(W){
+    W.widget.followButton({
+        'nick_name': '初砚硕',  //用户昵称
+        'id': "wb_follow_btn",
+        'show_head' : true, //是否显示头像
+        'show_name' : true, //是否显示名称
+        'show_cancel': true //是否显示取消关注按钮
+    });
+});
+</script>
+
 <footer>
   <p><small>Powered by <a href="https://github.com/mojombo/jekyll">Jekyll</a> on GitHub |  <span class="label label-info">{{site.time | date:"%Y-%m-%d %H:%M:%S"}}</span></small></p>
 </footer>
