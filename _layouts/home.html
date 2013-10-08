@@ -1,5 +1,5 @@
 <!doctype html>
-<html xmlns:wb=“http://open.weibo.com/wb”>
+<html>
 <head>
   <meta charset="utf-8">
   <title>Chu Yanshuo | 初砚硕</title>
@@ -33,7 +33,6 @@ font-family:Monaco, Consolas;
     text-shadow: 0 1px 0 #fff;
   }
   </style>
-<script src="http://tjs.sjs.sinajs.cn/open/api/js/wb.js" type="text/javascript" charset="utf-8"></script>
 
 
   <script>
@@ -54,25 +53,9 @@ font-family:Monaco, Consolas;
   <li><a href="/">Home</a></li>
   <li><a href="/cn/">Chinese</a></li>
   <li><a href="/en/">English</a></li>
-
-
 </ul>
 {% if page.avatar %} <p><img src="http://i.imgur.com/nEI3S9s.jpg" title="Chu Yanshuo" align="right" /></p> {% endif %}
 {{ content }}
-
-<div id="wb_follow_btn"></div>
-<script>
-WB2.anyWhere(function(W){
-    W.widget.followButton({
-        'nick_name': '初砚硕',  //用户昵称
-        'id': "wb_follow_btn",
-        'show_head' : true, //是否显示头像
-        'show_name' : true, //是否显示名称
-        'show_cancel': true //是否显示取消关注按钮
-    });
-});
-</script>
-
 <footer>
   <p><small>Powered by <a href="https://github.com/mojombo/jekyll">Jekyll</a> on GitHub |  <span class="label label-info">{{site.time | date:"%Y-%m-%d %H:%M:%S"}}</span></small></p>
 </footer>
