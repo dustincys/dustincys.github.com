@@ -48,7 +48,11 @@ font-family:Monaco, Consolas;
 </head>
 <body>
   <div class="container">
-  <h1 class="sitename">Chu Yanshuo</h1><iframe width="190" height="75" class="share_self"  frameborder="0" scrolling="no" src="http://widget.weibo.com/weiboshow/index.php?language=&width=190&height=75&fansRow=2&ptype=1&speed=0&skin=5&isTitle=0&noborder=1&isWeibo=0&isFans=0&uid=1641860010&verifier=eb816cbb&dpc=1"></iframe>
+  <h1 class="sitename">Chu Yanshuo <iframe width="136" height="24" frameborder="0" allowtransparency="true"
+marginwidth="0" marginheight="0" scrolling="no" border="0"
+src="http://widget.weibo.com/relationship/followbutton.php?language=zh_cn
+&uid=1641860010&style=2&btn=red&dpc=1"></iframe>
+</h1>
   <ul class="nav pills">
   <li><a href="/">Home</a></li>
   <li><a href="/cn/">Chinese</a></li>
@@ -56,7 +60,6 @@ font-family:Monaco, Consolas;
 </ul>
 {% if page.avatar %} <p><img src="http://i.imgur.com/nEI3S9s.jpg" title="Chu Yanshuo" align="right" /></p> {% endif %}
 {{ content }}
-
 <footer>
   <p><small>Powered by <a href="https://github.com/mojombo/jekyll">Jekyll</a> on GitHub |  <span class="label label-info">{{site.time | date:"%Y-%m-%d %H:%M:%S"}}</span></small></p>
 </footer>
