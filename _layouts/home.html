@@ -34,6 +34,9 @@ font-family:Monaco, Consolas;
   }
   </style>
 <script src="http://tjs.sjs.sinajs.cn/open/api/js/wb.js" type="text/javascript" charset="utf-8"></script>
+
+
+
   <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
@@ -47,14 +50,26 @@ font-family:Monaco, Consolas;
 </head>
 <body>
   <div class="container">
-  <h1 class="sitename"><wb:follow-button uid="1641860010" type="gray_1" width="67" height="24" >Chu Yanshuo</wb:follow-button></h1>
+  <h1 class="sitename">Chu Yanshuo</h1>
   <ul class="nav pills">
   <li><a href="/">Home</a></li>
   <li><a href="/cn/">Chinese</a></li>
   <li><a href="/en/">English</a></li>
+
+
 </ul>
 {% if page.avatar %} <p><img src="http://i.imgur.com/nEI3S9s.jpg" title="Chu Yanshuo" align="right" /></p> {% endif %}
 {{ content }}
+
+<div id="wb_follow_btn"></div>
+					<script>
+					WB2.anyWhere(function(W){
+						W.widget.followButton({
+							'nick_name': '初砚硕',	//用户昵称
+							'id': "wb_follow_btn"
+						});
+					});
+					</script>
 <footer>
   <p><small>Powered by <a href="https://github.com/mojombo/jekyll">Jekyll</a> on GitHub |  <span class="label label-info">{{site.time | date:"%Y-%m-%d %H:%M:%S"}}</span></small></p>
 </footer>
