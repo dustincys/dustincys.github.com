@@ -7,12 +7,7 @@
   <meta name="viewport" content="width=device-width; initial-scale=1.0">
   <link rel="stylesheet" type="text/css" href="/media/css/home.css">
   <style type="text/css">
-  html, body {
-	background-color: #F8F8F8;	
-  }
-li, p {
-font-family:Monaco, Consolas;
-}
+ 
   .container > footer p , .postheader > a{
     text-align: center;
   }
@@ -48,7 +43,7 @@ font-family:Monaco, Consolas;
 </head>
 <body>
   <div class="container">
-  <h1 class="sitename">Chu Yanshuo <iframe width="136" height="24" frameborder="0" allowtransparency="true"
+  <h1 class="sitename" font-family="Lovers Quarrel">Chu Yanshuo <iframe width="136" height="24" frameborder="0" allowtransparency="true"
 marginwidth="0" marginheight="0" scrolling="no" border="0"
 src="http://widget.weibo.com/relationship/followbutton.php?language=zh_cn
 &uid=1641860010&style=1&btn=red&dpc=1"></iframe>
