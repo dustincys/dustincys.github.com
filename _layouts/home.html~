@@ -51,7 +51,7 @@ font-family:Monaco, Consolas;
   <h1 class="sitename">Chu Yanshuo <iframe width="136" height="24" frameborder="0" allowtransparency="true"
 marginwidth="0" marginheight="0" scrolling="no" border="0"
 src="http://widget.weibo.com/relationship/followbutton.php?language=zh_cn
-&uid=1641860010&style=2&btn=red&dpc=1"></iframe>
+&uid=1641860010&style=1&btn=red&dpc=1"></iframe>
 </h1>
   <ul class="nav pills">
   <li><a href="/">Home</a></li>
