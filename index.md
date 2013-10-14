@@ -17,13 +17,5 @@ Problem is , biology enlightens bioinfo guys that organisms are dying as time pa
 [fishing]:  http://yanshuo.name/cn/2011/08/poker/
 [NCBI_GI2AGI]:  http://yanshuo.name/cn/2011/12/NCBIGIAGI/
 
-
-### 我
-在读的计算机Ph.D，虔诚的学徒一只。
-<li>喜欢平静、优美的东西，例如`Monaco`字体、`LaTeX`、`Python`、`Sublime`。</li>
-<li>喜欢编码、作图、研究有意思的数学。</li>
-<li>喜欢做些自娱的事，如做个QQ刷屏工具刷刷屏什么的。</li> 
-<li>不爱干安装操作系统这类没啥新意的事，消耗生命。</li>
-
 >“人的一生可能燃烧也可能腐朽。我不能腐朽，我愿意燃烧起来。”  
 >——奥斯特洛夫斯基
