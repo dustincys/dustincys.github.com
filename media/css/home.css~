@@ -64,7 +64,7 @@ margin:0;
 }
 
 a {
-color:#0000ff;
+color:#4775E7;
 text-decoration:none;
 }
 
@@ -360,8 +360,8 @@ background-color:#eee;
 
 .nav>li>a:hover {
 text-decoration:none;
-color:#f00;
-background-color:#0000ff;
+color:#fff;
+background-color:#4775E7;
 }
 
 .pills {
@@ -453,7 +453,7 @@ display:block;
 
 a.label:hover,.pills .active>a,.pills .active>a:hover {
 color:#fff;
-background-color:#0000ff;
+background-color:#4775E7;
 }
 
 h1 small,h2 small {
