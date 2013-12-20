@@ -17,5 +17,3 @@ Problem is , biology enlightens bioinfo guys that organisms are dying as time pa
 [fishing]:  http://yanshuo.name/cn/2011/08/poker/
 [NCBI_GI2AGI]:  http://yanshuo.name/cn/2011/12/NCBIGIAGI/
 
->“人的一生可能燃烧也可能腐朽。我不能腐朽，我愿意燃烧起来。”  
->——奥斯特洛夫斯基
