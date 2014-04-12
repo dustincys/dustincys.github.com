@@ -34,8 +34,7 @@ blockquote p{margin:0;padding:.5em 0;}
 .listing-item time{color:#999999;}
 .listing-seperator{font-weight:bold;}
 .meta{text-align:right;font-size:12px;}
-div.toc-header{float:right;padding:12px;}
-div.toc{background: lightgray;}
+div.toc-header{float:right;padding:12px;border: 1px solid #ddd;margin: 2px;}
 header{padding:.5em 0;border-bottom: 1px solid #cccccc;}
 nav{font-family:"Snippet","Microsoft YaHei",微软雅黑, Lucida Grande,Tahoma, sans-serif;font-weight:bold;font-size:1.1em;text-transform:uppercase;float:left;margin-left:-12em;width:9em;text-align:right;}
 nav a{display:block;padding:.7em 1em;color:#000000;}
