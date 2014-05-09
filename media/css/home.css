@@ -12,11 +12,6 @@ font-size:30px;
 line-height:30px;
 }
 
-.sitename {
-font-size:32px;
-font-weight:700;
-font-family:Lovers Quarrel;
-}
 }
 
 html {
@@ -434,6 +429,7 @@ visibility:hidden;
 .sitename {
 font-size:60px;
 font-weight:700;
+font-family: Lovers Quarrel;
 }
 
 footer,header,nav,.show {
