@@ -1,5 +1,13 @@
-@import url(http://fonts.googleapis.com/css?family=Bad+Script);
-@import url(http://fonts.googleapis.com/css?family=Lovers+Quarrel);
+@font-face {
+	font-family: 'KOMTXTT';
+	src: url('http://code.yanshuo.name/font/src/daeb8be0b79fd08c5459252bc26b450118f8426a/KOMTXTT.eot');
+	src: local('KOMTXTT'), url('http://code.yanshuo.name/font/src/daeb8be0b79fd08c5459252bc26b450118f8426a/KOMTXTT.woff') format('woff'), url('http://code.yanshuo.name/font/src/daeb8be0b79fd08c5459252bc26b450118f8426a/KOMTXTT.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Scotosaurus';
+	src: url('http://code.yanshuo.name/font/src/daeb8be0b79fd08c5459252bc26b450118f8426a/Scotosaurus.eot');
+	src: local('Scotosaurus'), url('http://code.yanshuo.name/font/src/daeb8be0b79fd08c5459252bc26b450118f8426a/Scotosaurus.woff') format('woff'), url('http://code.yanshuo.name/font/src/daeb8be0b79fd08c5459252bc26b450118f8426a/Scotosaurus.ttf') format('truetype');
+}
 
 @media screen {
 .container {
@@ -43,7 +51,7 @@ margin-right:auto;
 }
 
 body {
-font-family:Bad Script,"Microsoft YaHei",sans-serif;
+font-family:KOMTXTT,"Microsoft YaHei",sans-serif;
 font-size:22px;
 line-height:50px;
 color:#555;
@@ -337,7 +345,7 @@ height:auto;
 margin-left:0;
 margin-bottom:20px;
 list-style:none;
-font-family: Lovers Quarrel;
+font-family: Scotosaurus;
 font-size:34px;
 }
 
@@ -429,7 +437,7 @@ visibility:hidden;
 .sitename {
 font-size:60px;
 font-weight:700;
-font-family: Lovers Quarrel;
+font-family: Scotosaurus;
 }
 
 footer,header,nav,.show {
