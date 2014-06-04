@@ -11,8 +11,8 @@
   
 @font-face {
 	font-family: 'KOMTXTT';
-	src: url('http://code.yanshuo.name/font/src/daeb8be0b79fd08c5459252bc26b450118f8426a/KOMTXTT.eot');
-	src: local('KOMTXTT'), url('http://code.yanshuo.name/font/src/daeb8be0b79fd08c5459252bc26b450118f8426a/KOMTXTT.woff') format('woff'), url('http://code.yanshuo.name/font/src/daeb8be0b79fd08c5459252bc26b450118f8426a/KOMTXTT.ttf') format('truetype');
+	src: url('http://code.yanshuo.name/font/src/55e104db8572cf9768ed45a66c310e31bab9a20c/OpenSansRegular.eot');
+	src: local('KOMTXTT'), url('http://code.yanshuo.name/font/src/55e104db8572cf9768ed45a66c310e31bab9a20c/OpenSansRegular.woff') format('woff'), url('http://code.yanshuo.name/font/src/55e104db8572cf9768ed45a66c310e31bab9a20c/OpenSansRegular.ttf') format('truetype');
 }
 body{font-size:14px;font-family:"KOMTXTT","Hiragino Sans GB","Microsoft YaHei",Trebuchet,"Trebuchet MS",Tahoma,"Lucida Grande","Lucida Sans Unicode",Verdana,sans-serif;color:#000000;background-color:#ffffff;}
 *{padding:0;margin: 0;border:none;outline:none;}
