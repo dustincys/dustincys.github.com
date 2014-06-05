@@ -1,8 +1,12 @@
 @font-face {
-	font-family: 'KOMTXTT';
-	src: url('http://code.yanshuo.name/font/src/daeb8be0b79fd08c5459252bc26b450118f8426a/KOMTXTT.eot');
-	src: local('KOMTXTT'), url('http://code.yanshuo.name/font/src/daeb8be0b79fd08c5459252bc26b450118f8426a/KOMTXTT.woff') format('woff'), url('http://code.yanshuo.name/font/src/daeb8be0b79fd08c5459252bc26b450118f8426a/KOMTXTT.ttf') format('truetype');
-}
+    font-family: 'Snippet';
+    src:url('http://code.yanshuo.name/font/src/660cb64b67437be9342926a9b707bc4fe86748f2/Snippet.ttf.woff') format('woff'),
+        url('http://code.yanshuo.name/font/src/660cb64b67437be9342926a9b707bc4fe86748f2/Snippet.ttf.svg#Snippet') format('svg'),
+        url('http://code.yanshuo.name/font/src/660cb64b67437be9342926a9b707bc4fe86748f2/Snippet.ttf.eot'),
+        url('http://code.yanshuo.name/font/src/660cb64b67437be9342926a9b707bc4fe86748f2/Snippet.ttf.eot?#iefix') format('embedded-opentype'); 
+        font-weight: normal;
+        font-style: normal;
+} 
 @font-face {
 	font-family: 'Scotosaurus';
 	src: url('http://code.yanshuo.name/font/src/daeb8be0b79fd08c5459252bc26b450118f8426a/Scotosaurus.eot');
@@ -51,7 +55,7 @@ margin-right:auto;
 }
 
 body {
-font-family:KOMTXTT,"Microsoft YaHei",sans-serif;
+font-family:Snippet,"Microsoft YaHei",sans-serif;
 font-size:22px;
 line-height:50px;
 color:#555;
