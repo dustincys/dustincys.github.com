@@ -55,3 +55,16 @@ pre,code{font-family:Menlo,"Andale Mono",Consolas,"Courier New",Monaco,monospace
 code{background-color:#f7f7f7;border:1px solid #e1e1e8;padding:3px 4px;}
 embed,object,iframe{display:block;margin:4px auto;}
 .gist{font-size: 12px;line-height:1.6;}
+.clickable-header {
+    cursor:pointer;
+}
+.clickable-header:hover {
+    text-decoration:underline;
+}
+.top-level-header {
+    display:inline;
+}
+.back-to-top {
+    margin-left:5px;
+    cursor:pointer;
+}
