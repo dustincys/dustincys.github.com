@@ -1,17 +1,5 @@
-@font-face {
-    font-family: 'Snippet';
-    src:url('http://code.yanshuo.name/font/src/660cb64b67437be9342926a9b707bc4fe86748f2/Snippet.ttf.woff') format('woff'),
-        url('http://code.yanshuo.name/font/src/660cb64b67437be9342926a9b707bc4fe86748f2/Snippet.ttf.svg#Snippet') format('svg'),
-        url('http://code.yanshuo.name/font/src/660cb64b67437be9342926a9b707bc4fe86748f2/Snippet.ttf.eot'),
-        url('http://code.yanshuo.name/font/src/660cb64b67437be9342926a9b707bc4fe86748f2/Snippet.ttf.eot?#iefix') format('embedded-opentype'); 
-        font-weight: normal;
-        font-style: normal;
-} 
-@font-face {
-	font-family: 'Scotosaurus';
-	src: url('http://code.yanshuo.name/font/src/daeb8be0b79fd08c5459252bc26b450118f8426a/Scotosaurus.eot');
-	src: local('Scotosaurus'), url('http://code.yanshuo.name/font/src/daeb8be0b79fd08c5459252bc26b450118f8426a/Scotosaurus.woff') format('woff'), url('http://code.yanshuo.name/font/src/daeb8be0b79fd08c5459252bc26b450118f8426a/Scotosaurus.ttf') format('truetype');
-}
+@import url(http://fonts.useso.com/css?family=Bad+Script);
+@import url(http://fonts.useso.com/css?family=Lovers+Quarrel);
 
 @media screen {
 .container {
@@ -55,7 +43,7 @@ margin-right:auto;
 }
 
 body {
-font-family:Snippet,"Microsoft YaHei",sans-serif;
+font-family:Bad Script,"Microsoft YaHei",sans-serif;
 font-size:22px;
 line-height:50px;
 color:#555;
@@ -349,7 +337,7 @@ height:auto;
 margin-left:0;
 margin-bottom:20px;
 list-style:none;
-font-family: Scotosaurus;
+font-family: Lovers Quarrel;
 font-size:34px;
 }
 
@@ -441,7 +429,7 @@ visibility:hidden;
 .sitename {
 font-size:60px;
 font-weight:700;
-font-family: Scotosaurus;
+font-family: Lovers Quarrel;
 }
 
 footer,header,nav,.show {
