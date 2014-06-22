@@ -1,5 +1,4 @@
 @import url(http://fonts.useso.com/css?family=Bad+Script);
-@import url(http://fonts.useso.com/css?family=Lovers+Quarrel);
 
 @media screen {
 .container {
@@ -337,7 +336,7 @@ height:auto;
 margin-left:0;
 margin-bottom:20px;
 list-style:none;
-font-family: Lovers Quarrel;
+font-family: Bad Script;
 font-size:34px;
 }
 
@@ -429,7 +428,7 @@ visibility:hidden;
 .sitename {
 font-size:60px;
 font-weight:700;
-font-family: Lovers Quarrel;
+font-family: Bad Script;
 }
 
 footer,header,nav,.show {
