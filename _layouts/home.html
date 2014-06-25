@@ -43,18 +43,20 @@
 </head>
 <body>
   <div class="container">
-  <h1 class="sitename">Chu Yanshuo <iframe width="136" height="24" frameborder="0" allowtransparency="true"
-marginwidth="0" marginheight="0" scrolling="no" border="0"
-src="http://widget.weibo.com/relationship/followbutton.php?language=zh_cn
-&uid=1641860010&style=1&btn=red&dpc=1"></iframe>
-</h1>
+{% if page.avatar %} <p><img src="http://i.imgur.com/UR0F2VH.jpg" title="Chu Yanshuo"  /></p> {% endif %}
+  <center><h1 class="sitename">Chu Yanshuo 
+</h1></center>
+<!---
+<iframe width="136" height="24" frameborder="0" allowtransparency="true" marginwidth="0" marginheight="0" scrolling="no" border="0" src="http://widget.weibo.com/relationship/followbutton.php?language=zh_cn &uid=1641860010&style=1&btn=red&dpc=1"></iframe>
+--->
+{{ content }}
+<center>
   <ul class="nav pills">
   <li><a href="/">Home</a></li>
   <li><a href="/cn/">Chinese</a></li>
   <li><a href="/en/">English</a></li>
 </ul>
-{% if page.avatar %} <p><img src="http://i.imgur.com/UR0F2VH.jpg" title="Chu Yanshuo" align="right" /></p> {% endif %}
-{{ content }}
+</center>
 <footer>
   <p><small>Powered by <a href="https://github.com/mojombo/jekyll">Jekyll</a> on GitHub |  <span class="label label-info">{{site.time | date:"%Y-%m-%d %H:%M:%S"}}</span></small></p>
 </footer>
