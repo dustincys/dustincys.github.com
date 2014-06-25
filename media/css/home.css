@@ -471,3 +471,6 @@ clear:both;
 .pager .next a,.pull-right {
 float:right;
 }
+span.zh{
+    font-size:16px;
+}
