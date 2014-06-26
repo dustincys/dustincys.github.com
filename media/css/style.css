@@ -60,3 +60,10 @@ embed,object,iframe{display:block;margin:4px auto;}
     margin-left:5px;
     cursor:pointer;
 }
+
+div.date, div.title{
+    display: inline;
+}
+div.item{
+    text-align:left;
+}
