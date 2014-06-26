@@ -60,9 +60,13 @@ embed,object,iframe{display:block;margin:4px auto;}
     margin-left:5px;
     cursor:pointer;
 }
-div.date, div.title{
-    display: inline;
-}
+div.date{
+    text-align:left; 
+ }
 div.title{
-    float:right;
+border-top:1px solid #ccc;                                                                                          
+text-align:center;
 }
+div.item{
+}
+
