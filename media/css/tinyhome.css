@@ -68,7 +68,6 @@ p a {
 .container {
 margin-left:auto;
 margin-right:auto;
-zoom:0.0625em;
 }
 
 @media screen and (max-device-width: 400px) {
