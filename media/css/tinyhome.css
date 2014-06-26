@@ -44,7 +44,6 @@ margin-right:auto;
 
 body {
 font-family:Bad Script,"Microsoft YaHei",sans-serif;
-font-size:1.375em;
 line-height:3.125em;
 color:#555;
 background-color:#fff;
@@ -70,14 +69,12 @@ p a {
 }
 
 p {
-font-size:1.3125em;
 line-height:1.875em;
 color:#555;
 margin:0 0 1em;
 }
 
 p small {
-font-size:1.1em;
 color:#999;
 }
 
