@@ -31,7 +31,7 @@ blockquote p{margin:0;padding:.5em 0;}
 .listing-item,.listing-seperator{list-style-type:none;}
 .listing-item a{padding:.2em 1em;}
 .listing-item time{color:#999999;}
-.listing-seperator{font-weight:bold;}
+.listing-seperator{font-weight:bold;text-align:center;}
 .meta{text-align:right;font-size:12px;}
 div.toc-header{float:right;padding:12px;border: 1px solid #ddd;margin: 2px;}
 header{padding:.5em 0;border-bottom: 1px solid #cccccc;text-align:center;}
@@ -61,12 +61,14 @@ embed,object,iframe{display:block;margin:4px auto;}
     cursor:pointer;
 }
 div.date{
-    text-align:left; 
+    text-align: center; 
  }
 div.title{
-border-top:1px solid #ccc;                                                                                          
 text-align:center;
 }
 div.item{
+    border: 1px solid #cccccc;
+    padding: 1em 0 1em 0;
+
 }
 
