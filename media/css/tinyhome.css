@@ -453,7 +453,7 @@ span.zh{
 .headname{
 	display:block;
 	text-align:-webkit-center;
-	margin-left: 67px;
+	text-align:center;
 }
 .headname>li{
 	display:inline-block;
