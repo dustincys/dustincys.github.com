@@ -450,3 +450,12 @@ float:right;
 span.zh{
     font-size:0.8em;
 }
+.headname{
+	display:block;
+	text-align:-webkit-center;
+	margin-left: 67px;
+}
+.headname>li{
+	display:inline-block;
+	list-style:none;
+}

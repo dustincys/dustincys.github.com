@@ -1,5 +1,5 @@
 <!doctype html>
-<html>
+<html xmlns:wb="http://open.weibo.com/wb">
 <head>
   <meta charset="utf-8">
   <title>Chu Yanshuo | 初砚硕</title>
@@ -45,12 +45,16 @@ media="screen and (max-width: 700px)"   href="/media/css/tinyhome.css"/>
   ga('send', 'pageview');
 
 </script>
+<script src="http://tjs.sjs.sinajs.cn/open/api/js/wb.js" type="text/javascript" charset="utf-8"></script>
 </head>
 <body>
   <div class="container">
 {% if page.avatar %} <p><img src="http://i.imgur.com/UR0F2VH.jpg" title="Chu Yanshuo"  /></p> {% endif %}
-  <center><h1 class="sitename">Chu Yanshuo 
-</h1></center>
+<div class="headname"><li><h1 class="sitename">Chu Yanshuo 
+</h1></li>
+<li><wb:follow-button uid="1641860010" type="red_1" width="67" height="24" ></wb:follow-button></li>
+</div>
+
 <!---
 <iframe width="136" height="24" frameborder="0" allowtransparency="true" marginwidth="0" marginheight="0" scrolling="no" border="0" src="http://widget.weibo.com/relationship/followbutton.php?language=zh_cn &uid=1641860010&style=1&btn=red&dpc=1"></iframe>
 --->
@@ -60,8 +64,6 @@ media="screen and (max-width: 700px)"   href="/media/css/tinyhome.css"/>
   <li><a href="/">Home</a></li>
   <li><a href="/cn/">中文版</a></li>
   <li><a href="/en/">English</a></li>
-  <li><a href="http://weibo.com/chuyanshuo">微博</a></li>
-</ul>
 </center>
 <footer>
   <p><small>Powered by <a href="https://github.com/mojombo/jekyll">Jekyll</a> on GitHub |  <span class="label label-info">{{site.time | date:"%Y-%m-%d %H:%M:%S"}}</span></small></p>

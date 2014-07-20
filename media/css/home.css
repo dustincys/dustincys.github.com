@@ -475,3 +475,13 @@ float:right;
 span.zh{
     font-size:16px;
 }
+
+.headname{
+	display:block;
+	text-align:-webkit-center;
+	margin-left: 67px;
+}
+.headname>li{
+	display:inline-block;
+	list-style:none;
+}
