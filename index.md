@@ -23,7 +23,7 @@ Currently my research interests include cancer bioinformatics, network biology.
 诗词中我喜欢感情猛烈如火山爆发，锋锐如刀似割的类型：
 
 > 水天空阔，恨东风、不借世间英物。  
-蜀鸟吴花，残照里，忍见荒城颓壁！
+蜀鸟吴花，残照里，忍见荒城颓壁！  
 铜雀春情，金人秋泪，此恨凭谁雪！  
 堂堂剑气，斗牛空认奇杰。
 > 
