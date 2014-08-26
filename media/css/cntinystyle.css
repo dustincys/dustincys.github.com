@@ -19,7 +19,7 @@ ol,ul{list-style-position:inside;}
 ol ul, ul ol, ul ul, ol ol {margin-left:1em;}
 pre code{margin:1em 0;font-size:13px;line-height:1.6;display:block;overflow:auto;}
 blockquote{display:block;text-align:justify;border-left:4px solid #eeeeee;}
-blockquote{margin:1em 0em;padding-left:1.5em;}
+blockquote{margin:1em 1em;padding-left:1.5em;}
 blockquote p{margin:0;padding:.5em 0;}
 @media screen{
     #container{width:90%;margin:1em auto;display:block;}
