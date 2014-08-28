@@ -32,7 +32,7 @@ blockquote p{margin:0;padding:.5em 0;}
 .listing-item a{padding:.2em 1em;}
 .listing-item time{color:#999999;}
 .listing-seperator{font-weight:bold;text-align:center;}
-.meta{text-align:right;font-size:12px;}
+.meta{text-align:right;font-size:12px;background:#eeeeee;}
 div.toc-header{float:right;padding:12px;border: 1px solid #ddd;margin: 2px;}
 header{padding:.5em 0;border-bottom: 1px solid #cccccc;text-align:center;}
 nav{font-family:"Snippet","Microsoft YaHei",微软雅黑, Lucida Grande,Tahoma, sans-serif;font-weight:bold;font-size:1.1em;text-transform:uppercase;text-align:center;border-bottom:1px solid #cccccc;}
