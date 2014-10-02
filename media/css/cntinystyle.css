@@ -15,7 +15,7 @@ a:hover{color:#D54773;text-decoration:underline;}
 hr{margin:.7em 0;border-top:1px dashed #d0d0d0;border-bottom:1px dashed #f9f9f9;}
 p{padding:.5em 0;}
 li{padding:.2em 0;}
-ol,ul{list-style-position:inside;}
+ol,ul{list-style-position:outside;margin-left:1em;}
 ol ul, ul ol, ul ul, ol ol {margin-left:1em;}
 pre code{margin:1em 0;font-size:13px;line-height:1.6;display:block;overflow:auto;}
 blockquote{display:block;text-align:justify;border-left:4px solid #eeeeee;}
@@ -34,6 +34,7 @@ blockquote p{margin:0;padding:.5em 0;}
 .listing-seperator{font-weight:bold;text-align:center;}
 .meta{text-align:right;font-size:12px;background:#eeeeee;}
 div.toc-header{float:right;padding:12px;border: 1px solid #ddd;margin: 2px;}
+.toc-title{margin-left:1em;}
 header{padding:.5em 0;border-bottom: 1px solid #cccccc;text-align:center;}
 nav{font-family:"Snippet","Microsoft YaHei",微软雅黑, Lucida Grande,Tahoma, sans-serif;font-weight:bold;font-size:1.1em;text-transform:uppercase;text-align:center;border-bottom:1px solid #cccccc;}
 nav a{display:none;padding:.7em 1em;color:#4775E7;}
