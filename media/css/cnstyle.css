@@ -15,7 +15,7 @@ a:hover{color:#D54773;text-decoration:underline;}
 hr{margin:.7em 0;border-top:1px dashed #d0d0d0;border-bottom:1px dashed #f9f9f9;}
 p{padding:.5em 0;}
 li{padding:.2em 0;}
-ol,ul{list-style-position:inside;}
+ol,ul{list-style-position: outside; margin-left:2em;}
 ol ul, ul ol, ul ul, ol ol {margin-left:1em;}
 pre code{margin:1em 0;font-size:13px;line-height:1.6;display:block;overflow:auto;}
 blockquote{display:block;text-align:justify;border-left:4px solid #eeeeee;}
@@ -34,6 +34,7 @@ blockquote p{margin:0;padding:.5em 0;}
 .meta{text-align:right;font-size:12px;background:#eeeeee;}
 div.toc-header{float:right;padding:1em;border: 1px solid #ddd; margin-left: 1em; font-size: 14px; max-width: 40%;}
 .toc{padding:1em 0 0 0;}
+.toc-title{margin-left:2em; font-size:14px;}
 header{padding:.5em 0;border-bottom: 1px solid #cccccc;}
 nav{font-family:"Snippet","Microsoft YaHei",微软雅黑, Lucida Grande,Tahoma, sans-serif;font-weight:bold;font-size:1.1em;text-transform:uppercase;float:left;margin-left:-12em;width:9em;text-align:right;}
 nav a{display:block;padding:.7em 1em;color:#000000;}
