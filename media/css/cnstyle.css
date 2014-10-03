@@ -30,7 +30,7 @@ blockquote p{margin:0;padding:.5em 0;}
 .listing-item,.listing-seperator{list-style-type:none;}
 .listing-item a{padding:.2em 1em;}
 .listing-item time{color:#999999;}
-.listing-seperator{font-weight:bold;}
+.listing-seperator{font-weight:bold;margin-left:-1em;}
 .meta{text-align:right;font-size:12px;background:#eeeeee;}
 div.toc-header{float:right;padding:1em;border: 1px solid #ddd; margin-left: 1em; font-size: 14px; max-width: 40%;}
 .toc-title{margin-left:1em; font-size:14px;}
