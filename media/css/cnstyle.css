@@ -31,14 +31,6 @@ blockquote p{margin:0;padding:.5em 0;}
 .listing-item a{padding:.2em 1em;}
 .listing-item time{color:#999999;}
 .listing-seperator{font-weight:bold;margin-left:-1em;}
-.meta{text-align:right;font-size:12px;
-background: -webkit-gradient(linear, 0 0, 0 100%, from(#eee), to(#fff)); /** Chrome Safari **/
-background: -moz-linear-gradient(top, #eee, #fff); /** FireFox **/
-background: -o-linear-gradient(top, #eee, #fff);  /** Opear **/
-background: -ms-linear-gradient(#eeeeee 0%,#ffffff 100%);  /** IE9 IE10 **/
-filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#eeeeee',endColorstr='#ffffff',grandientType=1); /** IE7 **/
--ms-filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#eeeeee',endColorstr='#ffffff',grandientType=1); /** IE8 **/
-border-top: 1px solid #cccccc;}
 div.toc-header{float:right;padding:1em;border: 1px solid #ddd; margin-left: 1em; font-size: 14px; max-width: 40%;}
 .toc-title{margin-left:1em; font-size:14px;}
 header{padding:.5em 0;border-bottom: 1px solid #cccccc;}
@@ -80,3 +72,53 @@ width:50px;height:50px;}
 a#go-top:hover{
 	background:url(http://www.lanrentuku.com/savepic/img/allimg/1206/5-120601160008.png) no-repeat right top;
 }
+/*********************************************************\
+ * baidu share
+\*********************************************************/
+
+
+
+.bdsharebuttonbox a{
+	width: 31px!important;
+	height: 32px!important;
+	margin: 0 6px 0 0!important;
+	background: url(http://zhiqiang.org/blog/wp-content/themes/yuewei/images/share_icon.png) no-repeat!important;
+}
+
+
+.bdsharebuttonbox a.bds_tsina {
+	background-position: -36px 0!important;
+}
+.bdsharebuttonbox a.bds_renren {
+	background-position: -108px 0!important;
+}
+.bdsharebuttonbox a.bds_qzone {
+	background-position: 0 0!important;
+}
+.bdsharebuttonbox a.bds_tqq {
+	background-position: -72px 0!important;
+}
+.bdsharebuttonbox a.bds_weixin {
+	background-position: -179px 0!important;
+}
+.bdsharebuttonbox a.bds_more {
+	background-position: -144px 0!important;
+}
+
+.shareto {
+	padding-top: 1em;
+	max-width: 100%;
+	display: block;
+	border-top: 1px solid #cccccc;
+}
+.shareto span {
+	float: left;
+	padding-right: 15px;
+	line-height: 32px;
+}
+.meta{
+	margin: 0.5em 1em 1.5em 1em;
+	padding-left: 1.5em;
+	border-left: 4px solid #D2D2D2;
+}
+
