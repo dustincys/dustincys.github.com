@@ -119,3 +119,12 @@ div.item{
 	border-left: 4px solid #D2D2D2;
 }
 
+.toc > ul{
+	padding:0.4em 0em 0em 0em;
+}
+.toc > ul > li{
+	padding:0.4em 0em 0em 0em;
+}
+.toc > ul > li > ul{
+	padding:0.4em 0em 0em 0em;
+}
