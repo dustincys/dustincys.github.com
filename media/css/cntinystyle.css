@@ -136,7 +136,7 @@ div.item{
     font-size: 12px;
     line-height: 20px;
     right: -140px;
-    top: 25%; /* change this value to place the menu higher or lower */
+    top: 10%; /* change this value to place the menu higher or lower */
     position: fixed;
     z-index: 100;
 }
