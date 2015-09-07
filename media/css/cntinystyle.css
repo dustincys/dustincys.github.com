@@ -132,10 +132,10 @@ div.item{
 /* hidden menu  */
 
 #box{
-    width: 190px;
+    width: 205px;
     font-size: 12px;
     line-height: 20px;
-    right: -155px;
+    right: -175px;
     top: 10%; /* change this value to place the menu higher or lower */
     position: fixed;
     z-index: 100;
@@ -160,7 +160,6 @@ div.item{
     width: 80px;
     padding: 10px;
     float: left;
-    border-left: 1px solid #B4B8BB;
 }
 
 .show, .hide{
@@ -174,7 +173,7 @@ div.item{
 }
 
 .show{
-    margin-right:95px;
+    margin-right:115px;
 }
 
 #arrow, .bt{
