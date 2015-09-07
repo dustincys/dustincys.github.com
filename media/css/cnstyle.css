@@ -131,3 +131,8 @@ a#go-top:hover{
 .toc > ul > li > ul{
 	padding:0.4em 0em 0em 0em;
 }
+
+
+#box{
+	display: none;
+}
