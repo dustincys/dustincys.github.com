@@ -141,8 +141,8 @@ div.item{
 }
 
 .cbp-spmenu {
-	background: #47a3da;
 	position: fixed;
+	border: 1px solid #ccc;
 }
 
 .cbp-spmenu h3 {
@@ -156,7 +156,6 @@ div.item{
 
 .cbp-spmenu a {
 	display: block;
-	color: #fff;
 	font-weight: 300;
 }
 
@@ -179,7 +178,7 @@ div.item{
 }
 
 .cbp-spmenu-vertical a {
-	border-bottom: 1px solid #258ecd;
+	border-bottom: 1px solid #ccc;
 }
 
 .cbp-spmenu-horizontal {
