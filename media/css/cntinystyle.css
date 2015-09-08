@@ -131,82 +131,184 @@ div.item{
 
 /* hidden menu  */
 
-#box{
-    width: 205px;
-    font-size: 12px;
-    line-height: 20px;
-    right: -175px;
-    top: 10%; /* change this value to place the menu higher or lower */
-    position: fixed;
-    z-index: 100;
+.container{
+	text-align: right;
+	margin-top: -30px;
+}
+#showRightPush{
+	color: #999;
+	background: white;
 }
 
-#tab{
-    float: left;
-    list-style: none outside none;
-    margin: 0;
-    padding: 0;
-    position: relative;
-    z-index: 99;
+.cbp-spmenu {
+	background: #47a3da;
+	position: fixed;
 }
 
-#tab li span{
-    display: block;
-    padding: 0 5px;
-    position: relative;
+.cbp-spmenu h3 {
+	color: #afdefa;
+	font-size: 1.9em;
+	padding: 20px;
+	margin: 0;
+	font-weight: 300;
+	background: #0d77b6;
 }
 
-#links{
-    width: 80px;
-    padding: 10px;
-    float: left;
+.cbp-spmenu a {
+	display: block;
+	color: #fff;
+	font-weight: 300;
 }
 
-.show, .hide{
-    /* we specify the transition length for hiding and showing */
-            transition: margin-right .4s ease-in;
-    -webkit-transition: margin-right .4s ease-in;
+.cbp-spmenu a:hover {
+	background: #258ecd;
 }
 
-.hide{
-    margin-right:0px;
+.cbp-spmenu a:active {
+	background: #afdefa;
+	color: #47a3da;
 }
 
-.show{
-    margin-right:125px;
+/* Orientation-dependent styles for the content of the menu */
+
+.cbp-spmenu-vertical {
+	width: 240px;
+	height: 100%;
+	top: 0;
+	z-index: 1000;
 }
 
-#arrow, .bt{
-    cursor: pointer;
+.cbp-spmenu-vertical a {
+	border-bottom: 1px solid #258ecd;
 }
 
-.bt{
-    height: 40px;
-    margin: -1px;
-    text-align:center;
-    border:1px solid #858fa6;
-    font: bold 13px Helvetica,Arial,sans-serif;
-    background: white;
+.cbp-spmenu-horizontal {
+	width: 100%;
+	height: 150px;
+	left: 0;
+	z-index: 1000;
+	overflow: hidden;
 }
 
-.bt a{
-    line-height: 40px;
-    display: block;
+.cbp-spmenu-horizontal h3 {
+	height: 100%;
+	width: 20%;
+	float: left;
 }
 
-.bt:hover{
-    transition: background .3s linear;
-    background: #32A3D3;
-         -o-transition: background .3s linear;
-       -moz-transition: background .3s linear;
-    -webkit-transition: background .3s linear;
+.cbp-spmenu-horizontal a {
+	float: left;
+	width: 20%;
+	padding: 0.8em;
+	border-left: 1px solid #258ecd;
 }
 
-#deco{
-    width: 100px;
-    float: left;
-            box-shadow:0px 0px 5px #000;
-       -moz-box-shadow:0px 0px 5px #000;
-    -webkit-box-shadow:0px 0px 5px #000;
+/* Vertical menu that slides from the left or right */
+
+.cbp-spmenu-left {
+	left: -240px;
+}
+
+.cbp-spmenu-right {
+	right: -240px;
+}
+
+.cbp-spmenu-left.cbp-spmenu-open {
+	left: 0px;
+}
+
+.cbp-spmenu-right.cbp-spmenu-open {
+	right: 0px;
+}
+
+/* Horizontal menu that slides from the top or bottom */
+
+.cbp-spmenu-top {
+	top: -150px;
+}
+
+.cbp-spmenu-bottom {
+	bottom: -150px;
+}
+
+.cbp-spmenu-top.cbp-spmenu-open {
+	top: 0px;
+}
+
+.cbp-spmenu-bottom.cbp-spmenu-open {
+	bottom: 0px;
+}
+
+/* Push classes applied to the body */
+
+.cbp-spmenu-push {
+	overflow-x: hidden;
+	position: relative;
+	left: 0;
+}
+
+.cbp-spmenu-push-toright {
+	left: 240px;
+}
+
+.cbp-spmenu-push-toleft {
+	left: -240px;
+}
+
+/* Transitions */
+
+.cbp-spmenu,
+.cbp-spmenu-push {
+	-webkit-transition: all 0.3s ease;
+	-moz-transition: all 0.3s ease;
+	transition: all 0.3s ease;
+}
+
+/* Example media queries */
+
+@media screen and (max-width: 55.1875em){
+
+	.cbp-spmenu-horizontal {
+		font-size: 75%;
+		height: 110px;
+	}
+
+	.cbp-spmenu-top {
+		top: -110px;
+	}
+
+	.cbp-spmenu-bottom {
+		bottom: -110px;
+	}
+
+}
+
+@media screen and (max-height: 26.375em){
+
+	.cbp-spmenu-vertical {
+		font-size: 90%;
+		width: 190px;
+	}
+
+	.cbp-spmenu-left,
+	.cbp-spmenu-push-toleft {
+		left: -190px;
+	}
+
+	.cbp-spmenu-right {
+		right: -190px;
+	}
+
+	.cbp-spmenu-push-toright {
+		left: 190px;
+	}
+}
+.miniAvata{
+	clear:both;
+	display:block;
+	margin-left: auto;
+	margin-right: auto;
+	border-radius: 25em;
+	max-width: 30%;
 }
 

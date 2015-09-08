@@ -132,7 +132,11 @@ a#go-top:hover{
 	padding:0.4em 0em 0em 0em;
 }
 
+/*mini menu bar */
 
-#box{
-	display: none;
+#cbp-spmenu-s2{
+	display:none;
+}
+.container{
+	display:none;
 }
