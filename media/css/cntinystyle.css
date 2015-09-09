@@ -130,7 +130,9 @@ div.item{
 }
 
 /* hidden menu  */
-
+.ubutton{
+	display: none;
+}
 .container{
 	text-align: right;
 	margin-top: -30px;
