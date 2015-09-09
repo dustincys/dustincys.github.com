@@ -8,7 +8,7 @@
 * |/ | (~ (~
 * |\.|._)._)
 * --------------------------------- */
-body{font-size:18px;font-family:"Snippet","Hiragino Sans GB","Microsoft YaHei",Trebuchet,"Trebuchet MS",Tahoma,"Lucida Grande","Lucida Sans Unicode",Verdana,sans-serif;color:#404040;background-color:#ffffff;}
+body{font-size:18px;font-family:"Snippet","Hiragino Sans GB","Microsoft YaHei",Trebuchet,"Trebuchet MS",Tahoma,"Lucida Grande","Lucida Sans Unicode",Verdana,sans-serif;color:#404040;background-color:#ffffff;line-height:150%}
 *{padding:0;margin: 0;border:none;outline:none;}
 a{color:#4775E7;text-decoration:none;}
 a:hover{color:#D54773;text-decoration:underline;}
