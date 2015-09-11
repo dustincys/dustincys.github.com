@@ -54,8 +54,10 @@ pre,code{font-family:Menlo,"Andale Mono",Consolas,"Courier New",Monaco,monospace
 pre,code:hover{overflow:auto;}
 code{background-color:#f7f7f7;border:1px solid #e1e1e8;padding:3px 4px;}
 embed,object,iframe{display:block;margin:4px auto;}
-.gist-meta .gist{font-size: inherit !important;line-height:inherit !important;}
+.gist{font-size: inherit !important;line-height:inherit !important;font-family: inherit !important;}
+.gist-meta{font-size: inherit !important;line-height:inherit !important;font-family: inherit !important;}
 .gist-data{display:none;}
+.gist-file{margin: 1em 0 !important;}
 .clickable-header {
     cursor:pointer;
 }
