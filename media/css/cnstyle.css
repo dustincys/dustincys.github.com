@@ -52,6 +52,7 @@ h3{font-family:"Snippet","Hiragino Sans GB","楷体",sans-serif;font-size:1.2em;
 h4{font-size:1em;font-weight: bold;color:#333;padding:0.5em 0;}
 pre,code{font-family:Menlo,"Andale Mono",Consolas,"Courier New",Monaco,monospace;}
 pre,code:hover{overflow:auto;}
+pre{background: white;}
 code{background-color:#f7f7f7;border:1px solid #e1e1e8;padding:3px 4px;}
 embed,object,iframe{display:block;margin:4px auto;}
 .gist{font-size: inherit !important;line-height:inherit !important;font-family: inherit !important;}
