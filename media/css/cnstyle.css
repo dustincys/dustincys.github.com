@@ -14,8 +14,8 @@ a{color:#4775E7;text-decoration:none;}
 a:hover{color:#D54773;text-decoration:underline;}
 hr{margin:.7em 0;border-top:1px dashed #d0d0d0;border-bottom:1px dashed #f9f9f9;}
 p{padding:.5em 0;}
-li{padding:.2em 0;}
-ol,ul{list-style-position: outside; margin-left:1em;padding:0.5em 0;font-family:黑体;}
+li{padding:.2em 0;font-family:黑体;}
+ol,ul{list-style-position: outside; margin-left:1em;padding:0.5em 0;}
 ol ul, ul ol, ul ul, ol ol {margin-left:1em;}
 pre code{margin:1em 0;line-height:1.6;display:block;overflow:hidden;}
 blockquote{display:block;border-left:4px solid #d2d2d2;}
@@ -23,7 +23,7 @@ blockquote{margin:1em 1em;padding-left:1.5em;}
 blockquote p{margin:0;padding:.5em 0;}
 #container{width:800px;margin:auto;display:block;margin-top:4em;}
 #showLeft{ cursor:pointer; }
-.post{padding:4em 6em 4em 6em; border: 1px solid rgb(204, 204, 204);margin-bottom:2em;box-shadow: 0 6px 12px rgba(0, 0, 0, 0.3);}
+.post{padding:4em 6em 4em 6em; border: 1px solid rgb(204, 204, 204);margin-bottom:2em;box-shadow: 0 6px 12px rgba(0, 0, 0, 0.3);font-family:幼圆;}
 .baidubutton{padding:2em 6em; border: 1px solid rgb(204, 204, 204);margin-top:2em;margin-bottom:2em;box-shadow: 0 6px 12px rgba(0, 0, 0, 0.3);}
 .comments{padding:2em 6em; border: 1px solid rgb(204, 204, 204);margin-top:2em;margin-bottom:2em;box-shadow: 0 6px 12px rgba(0, 0, 0, 0.3);}
 .post > header:nth-child(1){ border-bottom: 4px solid #CCC; }
@@ -48,7 +48,6 @@ pre,code{font-family:Menlo,"Andale Mono",Consolas,"Courier New",Monaco,monospace
 pre,code:hover{overflow:auto;}
 pre{background: white;}
 code{background-color:#E0E0E0;padding:3px 4px;}
-.post p{font-family:幼圆;}
 embed,object,iframe{display:block;margin:4px auto;}
 .gist{font-size: inherit !important;line-height:inherit !important;font-family: inherit !important;}
 .gist-meta{font-size: inherit !important;line-height:inherit !important;font-family: inherit !important;}
