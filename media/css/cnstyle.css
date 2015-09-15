@@ -93,7 +93,7 @@ a#go-top:hover{ background:url(http://www.lanrentuku.com/savepic/img/allimg/1206
 /* Vertical menu that slides from the left or right */ 
 .cbp-spmenu-left { left: -240px; }
 .cbp-spmenu-right { right: -240px; }
-.cbp-spmenu-left.cbp-spmenu-open { left: 0px; }
+.cbp-spmenu-left.cbp-spmenu-open { left: 0px;box-shadow: 0px 6px 12px rgba(0, 0, 0, 0.3);}
 .cbp-spmenu-right.cbp-spmenu-open { right: 0px; }
 /* Horizontal menu that slides from the top or bottom */
 .cbp-spmenu-top { top: -150px; }
