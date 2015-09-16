@@ -50,6 +50,7 @@ pre,code:hover{overflow:auto;}
 pre{background: white;}
 code{background-color:#E0E0E0;padding:3px 4px;}
 embed,object,iframe{display:block;margin:4px auto;}
+.fancybox{cursor:zoom-in;}
 .gist{font-size: inherit !important;line-height:inherit !important;font-family: inherit !important;}
 .gist-meta{font-size: inherit !important;line-height:inherit !important;font-family: inherit !important;}
 .gist-data{display:none;}
