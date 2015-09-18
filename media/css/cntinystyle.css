@@ -35,9 +35,6 @@ header{padding:.5em 0;border-bottom: 1px solid #cccccc;text-align:center;}
 nav{font-family:"Snippet","Microsoft YaHei",微软雅黑, Lucida Grande,Tahoma, sans-serif;font-weight:bold;font-size:1.1em;text-transform:uppercase;text-align:center;border-bottom:1px solid #cccccc;}
 nav a{display:none;padding:.7em 1em;color:#4775E7;}
 nav a:hover{background-color:#4775E7;text-decoration:none;color:#f9f9f9;-webkit-transition:color .2s linear;}
-.post{padding:2em;box-shadow:0px 10px 15px #ccc;margin-bottom:1em;}
-.baidubutton{padding:2em;box-shadow:0px 10px 15px #ccc;margin-bottom:1em;}
-.comments{padding:2em;box-shadow:0px 10px 15px #ccc;margin-bottom:1em;}
 h1{font-family:"Snippet","Hiragino Sans GB","Microsoft YaHei",sans-serif;font-size:1.6em;color:#000;}
 h2{font-family:"Snippet","Hiragino Sans GB","Microsoft YaHei",sans-serif;font-size:1.4em;color:#111;padding:0.5em 0;}
 h3{font-family:"Snippet","Hiragino Sans GB","Microsoft YaHei",sans-serif;font-size:1.2em;color:#222;padding:0.5em 0;}
