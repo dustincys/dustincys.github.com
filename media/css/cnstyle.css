@@ -1,13 +1,3 @@
-/*------------------------------------
-* sext
-*
-* @author linghua.zhang@me.com
-* @link http://lhzhang.com/
-* @update 2011-12-20
-* 
-* |/ | (~ (~
-* |\.|._)._)
-* --------------------------------- */
 body{font-size:18px;font-family:"Snippet","Hiragino Sans GB","Microsoft YaHei",Trebuchet,"Trebuchet MS",Tahoma,"Lucida Grande","Lucida Sans Unicode",Verdana,sans-serif;color:#404040;background-color:#ffffff;line-height:150%}
 *{padding:0;margin: 0;border:none;outline:none;}
 a{color:#4775E7;text-decoration:none;}
@@ -60,19 +50,8 @@ embed,object,iframe{display:block;margin:4px auto;}
 .back-to-top { margin-left:5px; cursor:pointer; }
 div.date, div.title{ display: inline; }
 div.item{ text-align:left; }
-.fa{
-	border:1px solid #ccc;
-	color: #ccc;
-	width:45px;
-	height:45px;
-	display:table-cell !important;
-	text-align:center;
-	vertical-align:middle;
-}
-.fa:hover{
-	background:#dadada;
-	color:gray;
-}
+.fa{ border:1px solid #ccc; color: #ccc; width:45px; height:45px; display:table-cell !important; text-align:center; vertical-align:middle; }
+.fa:hover{ background:#dadada; color:gray; }
 /*********************************************************\
  * baidu share
 \*********************************************************/
@@ -97,8 +76,7 @@ div.item{ text-align:left; }
 .cbp-spmenu a:hover { background: #258ecd; }
 .cbp-spmenu a:active { background: #afdefa; color: #47a3da; }
 /* Orientation-dependent styles for the content of the menu */
-.cbp-spmenu-vertical { width: 240px; z-index: 1000; background: white; }
-.cbp-spmenu-vertical a { border-bottom: 1px solid #ccc; } 
+.cbp-spmenu-vertical {z-index: 1000; background: white; }
 /* Vertical menu that slides from the left or right */ 
 .cbp-spmenu { left: -240px; }
 .cbp-spmenu.cbp-spmenu-open { left: 10px;box-shadow: 0px 6px 12px rgba(0, 0, 0, 0.3);}
