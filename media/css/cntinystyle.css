@@ -89,3 +89,4 @@ div.item{ border: 1px solid #cccccc; padding: 1em 0 1em 0; }
 /* Example media queries */
 @media screen and (max-height: 26.375em){ .cbp-spmenu-vertical { font-size: 90%; width: 190px; } .cbp-spmenu-left, .cbp-spmenu-push-toleft { left: -190px; } .cbp-spmenu { right: -190px; } .cbp-spmenu-push-toright { left: 190px; } }
 .miniAvata{ clear:both; display:block; margin-left: auto; margin-right: auto; border-radius: 25em; max-width: 30%; }
+.fa{display:none !important;}

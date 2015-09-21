@@ -61,8 +61,19 @@ embed,object,iframe{display:block;margin:4px auto;}
 .back-to-top { margin-left:5px; cursor:pointer; }
 div.date, div.title{ display: inline; }
 div.item{ text-align:left; }
-a#go-top{ background:url(http://www.lanrentuku.com/savepic/img/allimg/1206/5-120601160008.png) no-repeat left top; width:50px;height:50px;}
-a#go-top:hover{ background:url(http://www.lanrentuku.com/savepic/img/allimg/1206/5-120601160008.png) no-repeat right top; }
+.fa{
+	border:1px solid #ccc;
+	color: #ccc;
+	width:45px;
+	height:45px;
+	display:table-cell !important;
+	text-align:center;
+	vertical-align:middle;
+}
+.fa:hover{
+	background:#dadada;
+	color:gray;
+}
 /*********************************************************\
  * baidu share
 \*********************************************************/
