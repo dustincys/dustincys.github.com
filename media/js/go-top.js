@@ -57,6 +57,10 @@ GoTop.prototype = {
 			});
 		}
 
+		topLink.click(function(event) {
+				$("#div2").hide();
+				$("#div3").hide();
+		});
 		// 节点到屏幕右边的距离
 		var right = _self._getDistanceToBottom({_self:_self});
 
@@ -358,6 +362,10 @@ Share.prototype = {
 		// 插入节点并绑定节点事件, 当节点被点击, 用 0.4 秒的时间滚动到页面顶部
 		var topLink = jQuery('<a id="' + _self.config.nodeId + '" href="#div2">' + _self.config.text + '</a>');
 		topLink.appendTo(jQuery('body'));
+
+		topLink.click( function(event){
+			 $("#div2").show();
+		});
 	//	if(jQuery.scrollTo) {
 	//		topLink.click(function() {
 	//			jQuery.scrollTo({top:0}, 400);
@@ -371,7 +379,6 @@ Share.prototype = {
 		// IE6 (不支持 position:fixed) 的样式
 		if(/MSIE 6/i.test(navigator.userAgent)) {
 			topLink.css({
-				'display': 'none',
 				'position': 'absolute',
 				'text-decoration': 'none',
 				'right': right + 'px'
@@ -380,7 +387,6 @@ Share.prototype = {
 		// 其他浏览器的样式
 		} else {
 			topLink.css({
-				'display': 'none',
 				'position': 'fixed',
 				'text-decoration': 'none',
 				'right': right + 'px',
@@ -506,6 +512,9 @@ Comment.prototype = {
 		// 插入节点并绑定节点事件, 当节点被点击, 用 0.4 秒的时间滚动到页面顶部
 		var topLink = jQuery('<a id="' + _self.config.nodeId + '" href="#div3">' + _self.config.text + '</a>');
 		topLink.appendTo(jQuery('body'));
+		topLink.click( function(event){
+			 $("#div3").show();
+		});
 	//	if(jQuery.scrollTo) {
 	//		topLink.click(function() {
 	//			jQuery.scrollTo({top:0}, 400);
@@ -519,7 +528,6 @@ Comment.prototype = {
 		// IE6 (不支持 position:fixed) 的样式
 		if(/MSIE 6/i.test(navigator.userAgent)) {
 			topLink.css({
-				'display': 'none',
 				'position': 'absolute',
 				'text-decoration': 'none',
 				'right': right + 'px'
@@ -528,7 +536,6 @@ Comment.prototype = {
 		// 其他浏览器的样式
 		} else {
 			topLink.css({
-				'display': 'none',
 				'position': 'fixed',
 				'text-decoration': 'none',
 				'right': right + 'px',
