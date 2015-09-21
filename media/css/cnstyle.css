@@ -35,8 +35,7 @@ blockquote p{margin:0;padding:.5em 0;}
 .listing-item a{padding:.2em 1em;}
 .listing-item time{color:#999999;}
 .listing-seperator{font-weight:bold;margin-left:-1em;}
-@media screen and (max-width: 1500px){ div.toc-header{float:right;padding:1em;border: 1px solid #ddd; margin-top: 1em; margin-left: 1em;  max-width: 40%;}}
-@media screen and (min-width: 1500px){ div.toc-header{padding:1em;border: 1px solid #ddd;position:fixed;right:10px;box-shadow:inherit;max-width:350px;}}
+div.toc-header{float:right;padding:1em;border: 1px solid #ddd; margin-top: 1em; margin-left: 1em;  max-width: 40%;}
 .toc-title{margin-left:1em;}
 nav{font-family:华文行楷;font-weight:bold;font-size:1.1em;text-transform:uppercase;text-align:center;}
 nav a{display:block;padding:.7em 1em;color:#000000;}
