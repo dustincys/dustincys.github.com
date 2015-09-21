@@ -224,7 +224,6 @@ Bars.prototype = {
 		// IE6 (不支持 position:fixed) 的样式
 		if(/MSIE 6/i.test(navigator.userAgent)) {
 			topLink.css({
-				'display': 'none',
 				'position': 'absolute',
 				'text-decoration': 'none',
 				'right': right + 'px'
@@ -233,7 +232,6 @@ Bars.prototype = {
 		// 其他浏览器的样式
 		} else {
 			topLink.css({
-				'display': 'none',
 				'position': 'fixed',
 				'text-decoration': 'none',
 				'right': right + 'px',
