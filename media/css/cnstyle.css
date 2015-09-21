@@ -16,7 +16,7 @@ blockquote p{margin:0;padding:.5em 0;}
 .post{padding:4em 6em 4em 6em; border: 1px solid rgb(204, 204, 204);margin-bottom:2em;font-family:幼圆;}
 .baidubutton{display:none;padding:2em 6em; border: 1px solid rgb(204, 204, 204);margin-top:2em;margin-bottom:2em;}
 .comments{display:none;padding:2em 6em; border: 1px solid rgb(204, 204, 204);margin-top:2em;margin-bottom:2em;}
-.post > header:nth-child(1){ border-bottom: 4px solid #CCC; }
+.post > header:nth-child(1){ border-bottom: 2px solid #CCC;margin-bottom:1em; }
 .post > header:nth-child(1) > h1:nth-child(1){ margin-bottom: 0.2em; }
 .post img{max-width:90%;display:block;margin:4px auto;-webkit-box-shadow:#999 1px 1px 4px;-moz-box-shadow:#999 1px 1px 4px;box-shadow:#999 1px 1px 4px; }
 #tag_cloud{margin-bottom: 1em;font-weight:bold;}
