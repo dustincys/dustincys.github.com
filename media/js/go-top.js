@@ -212,7 +212,7 @@ Bars.prototype = {
 		var menu = document.getElementById( 'cbp-spmenu-s1' );
 		topLink.click( function(event){
 			classie.toggle( showLeft, 'active' );
-			classie.toggle( menu, 'cbp-spmenu-open' );
+			classie.toggle( menu, 'cbp-bigpage' );
 			event.preventDefault();
 		});
 	//	if(jQuery.scrollTo) {
