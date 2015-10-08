@@ -8,7 +8,7 @@ li{padding:.2em 0;font-family:华文仿宋;font-weight:bold;}
 ol,ul{list-style-position: outside; margin-left:1em;padding:0.5em 0;}
 ol ul, ul ol, ul ul, ol ol {margin-left:1em;}
 pre code{margin:1em 0;line-height:1.6;display:block;overflow:hidden;}
-blockquote{display:block;border-left:4px solid #d2d2d2;}
+blockquote{display:block;border-left:4px solid #d2d2d2;font-family:幼圆;}
 blockquote{margin:1em 1em;padding-left:1.5em;}
 blockquote p{margin:0;padding:.5em 0;}
 #container{width:850px;margin:auto;display:block;margin-top:4em;margin-bottom:4em;}
