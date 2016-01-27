@@ -208,10 +208,8 @@ Bars.prototype = {
 		// 插入节点并绑定节点事件, 当节点被点击, 用 0.4 秒的时间滚动到页面顶部
 		var topLink = jQuery('<a id="' + _self.config.nodeId + '" href="">' + _self.config.text + '</a>');
 		topLink.appendTo(jQuery('body'));
-		var showLeft = document.getElementById( 'showLeft' );
 		var menu = document.getElementById( 'cbp-spmenu-s1' );
 		topLink.click( function(event){
-			classie.toggle( showLeft, 'active' );
 			classie.toggle( menu, 'cbp-bigpage' );
 			event.preventDefault();
 		});
