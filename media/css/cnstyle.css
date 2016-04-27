@@ -63,7 +63,7 @@ div.item{ text-align:left; }
 .bdsharebuttonbox a.bds_more { background-position: -144px 0!important; }
 .shareto { max-width: 100%; display: block; }
 .shareto span { float: left; padding-right: 15px; line-height: 32px; }
-.meta{ margin: 0.5em 1em 0em 1em; padding-left: 1.5em; border-left: 4px solid #D2D2D2; }
+.meta{ margin: 0.5em 1em 0.5em 1em; padding-left: 1.5em; border-left: 4px solid #D2D2D2; }
 .toc > ul{ padding:0.4em 0em 0em 0em; }
 .toc > ul > li{ padding:0.4em 0em 0em 0em; }
 .toc > ul > li > ul{ padding:0.4em 0em 0em 0em; }
