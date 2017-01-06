@@ -209,8 +209,14 @@ Bars.prototype = {
 		var topLink = jQuery('<a id="' + _self.config.nodeId + '" href="">' + _self.config.text + '</a>');
 		topLink.appendTo(jQuery('body'));
 		var menu = document.getElementById( 'cbp-spmenu-s1' );
+		var contain = document.getElementById( 'container' );
 		topLink.click( function(event){
 			classie.toggle( menu, 'cbp-bigpage' );
+			if ( classie.has( menu, 'cbp-bigpage' ) ){
+				classie.add(contain, 'ccbp-bigpage' ) // add new class
+			}else{
+				classie.remove(contain, 'ccbp-bigpage' ) // remove class
+			}
 			event.preventDefault();
 		});
 	//	if(jQuery.scrollTo) {
