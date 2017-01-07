@@ -213,7 +213,12 @@ Bars.prototype = {
 		topLink.click( function(event){
 			classie.toggle( menu, 'cbp-bigpage' );
 			if ( classie.has( menu, 'cbp-bigpage' ) ){
-				classie.add(contain, 'ccbp-bigpage' ) // add new class
+				var cof = jQuery("#container").offset().left;
+				if ( cof < 240) {
+					classie.add(contain, 'ccbp-bigpage' ) // add new class
+				}else{
+					classie.remove(contain, 'ccbp-bigpage' ) // remove class
+				}
 			}else{
 				classie.remove(contain, 'ccbp-bigpage' ) // remove class
 			}
