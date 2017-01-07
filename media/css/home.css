@@ -1,4 +1,4 @@
-@import url(https://ocbbd7ie0.qnssl.com/family=Zeyada);
+@import url(https://ocbbd7ie0.qnssl.com/family=Bad+Script);
 
 @media screen {
 .container {
@@ -43,7 +43,7 @@ margin-right:auto;
 }
 
 body {
-font-family:Zeyada,"Microsoft YaHei",sans-serif;
+font-family:Bad Script,"Microsoft YaHei",sans-serif;
 font-size:22px;
 line-height:50px;
 color:#555;
@@ -337,7 +337,7 @@ height:auto;
 margin-left:0;
 margin-bottom:20px;
 list-style:none;
-font-family: Zeyada;
+font-family: Bad Script;
 }
 
 .nav>li>a {
@@ -420,7 +420,7 @@ visibility:hidden;
 }
 
 .sitename {
-font-family: Zeyada;
+font-family: Bad Script;
 }
 
 footer,header,nav,.show {
