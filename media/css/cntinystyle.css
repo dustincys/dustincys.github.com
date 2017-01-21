@@ -42,7 +42,7 @@ div.title{ text-align:center; }
 div.item{ border: 1px solid #cccccc; padding: 1em 0 1em 0; }
 /*********************************************************\
  * baidu share
-\*********************************************************/ 
+\*********************************************************/
 .bdsharebuttonbox a{ width: 31px!important; height: 32px!important; margin: 0 6px 0 0!important; background: url(/slides/share_icon.png) no-repeat!important; }
 .bdsharebuttonbox a.bds_tsina { background-position: -36px 0!important; }
 .bdsharebuttonbox a.bds_renren { background-position: -108px 0!important; }
@@ -65,16 +65,16 @@ div.item{ border: 1px solid #cccccc; padding: 1em 0 1em 0; }
 .cbp-spmenu a { display: block; font-weight: 300; }
 .cbp-spmenu a:hover { background: #258ecd; }
 .cbp-spmenu a:active { background: #afdefa; color: #47a3da; }
-/* Orientation-dependent styles for the content of the menu */ 
+/* Orientation-dependent styles for the content of the menu */
 .cbp-spmenu-vertical { width: 240px; height: 100%; top: 0; z-index: 1000; }
-.cbp-spmenu-vertical a { border-bottom: 1px solid #ccc; } 
+.cbp-spmenu-vertical a { border-bottom: 1px solid #ccc; }
 /* Vertical menu that slides from the left or right */
 .cbp-spmenu { right: -240px; }
-.cbp-spmenu.cbp-spmenu-open { right: 0px;box-shadow:0px 10px 15px #ccc; }
+.cbp-spmenu.cbp-spmenu-open {right: 0px;box-shadow:0px 10px 15px #ccc; overflow-y: scroll;}
 /* Push classes applied to the body */
 .cbp-spmenu-push { overflow-x: hidden; position: relative; left: 0; }
-.cbp-spmenu-push-toleft { left: -240px; } 
-/* Transitions */ 
+.cbp-spmenu-push-toleft { left: -240px; }
+/* Transitions */
 .cbp-spmenu, .cbp-spmenu-push { -webkit-transition: all 0.3s ease; -moz-transition: all 0.3s ease; transition: all 0.3s ease; }
 /* Example media queries */
 @media screen and (max-height: 26.375em){ .cbp-spmenu-vertical { font-size: 90%; width: 190px; } .cbp-spmenu-left, .cbp-spmenu-push-toleft { left: -190px; } .cbp-spmenu { right: -190px; } .cbp-spmenu-push-toright { left: 190px; } }
