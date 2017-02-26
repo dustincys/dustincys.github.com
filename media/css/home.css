@@ -16,16 +16,24 @@ line-height:2em;
 }
 
 
-pre {
-  text-align: center;
-  height: 100%;
-  padding: 10px;
-  font-family: "SentyZHAO";
-  line-height: 1.8em;
-  writing-mode: tb-rl;
-  -webkit-writing-mode: vertical-rl;
-  writing-mode: vertical-rl;
-  margin: 0 auto;
-  font-size: 30px;
-  overflow: hidden;
+.article {
+    position: relative;
+    text-align: center;
+    height: 430px;
+    width: 800px;
+    margin: -50px auto 30px;
+}
+
+.article pre {
+    text-align: center;
+    height: 100%;
+    padding: 10px;
+    font-family: "SentyZHAO";
+    line-height: 1em;
+    writing-mode: tb-rl;
+    -webkit-writing-mode: vertical-rl;
+    writing-mode: vertical-rl;
+    margin: 0 auto;
+    font-size: 30px;
+    overflow: hidden;
 }
