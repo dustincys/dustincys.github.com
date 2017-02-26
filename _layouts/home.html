@@ -1,62 +1,29 @@
 <!doctype html>
 <html xmlns:wb="http://open.weibo.com/wb">
-<head>
-  <meta charset="utf-8">
-  <title>Yanshuo</title>
-  <meta name="author" content="Yanshuo | 石见石页_"/>
-  <meta name="viewport" content="width=device-width; initial-scale=1.0">
-  <link rel="stylesheet" type="text/css"
-media="screen and (min-width: 700px)"   href="/media/css/home.css"/>
-
-  <link rel="stylesheet" type="text/css"
-media="screen and (max-width: 700px)"   href="/media/css/tinyhome.css"/>
-
-  <style type="text/css">
- 
-  .container > footer p , .postheader > a{
-    text-align: center;
-  }
-  .date {
-    text-align: center;
-    height: 30px;
-    color:#bfbfbf;
-    margin-bottom: 10px;
-  }
-  /* Specify class=linenums on a pre to get line numbering F8F8F8*/
-  ol.linenums {
-    margin: 0 0 0 33px; /* IE indents via margin-left */
-  } 
-  ol.linenums li {
-    padding-left: 12px;
-    color: #bebec5;
-    line-height: 18px;
-    text-shadow: 0 1px 0 #fff;
-  }
-  </style>
-
-<script src="http://tjs.sjs.sinajs.cn/open/api/js/wb.js" type="text/javascript" charset="utf-8"></script>
-</head>
-<body>
-  <div class="container">
-{% if page.avatar %} <p><img src="http://i.imgur.com/UR0F2VH.jpg" title="Yanshuo"  /></p> {% endif %}
-<div class="headname"><li><h1 class="sitename">Yanshuo 
-</h1></li>
-<li><wb:follow-button uid="1641860010" type="red_1" width="67" height="24" ></wb:follow-button></li>
-</div>
-
-<!---
-<iframe width="136" height="24" frameborder="0" allowtransparency="true" marginwidth="0" marginheight="0" scrolling="no" border="0" src="http://widget.weibo.com/relationship/followbutton.php?language=zh_cn &uid=1641860010&style=1&btn=red&dpc=1"></iframe>
---->
-{{ content }}
-<center>
-  <ul class="nav pills">
-  <li><a href="/">Home</a></li>
-  <li><a href="/cn/">Blog</a></li>
-</center>
-<footer>
-  <p><small>Powered by <a href="https://github.com/mojombo/jekyll">Jekyll</a> on GitHub |  <span class="label label-info">{{site.time | date:"%Y-%m-%d %H:%M:%S"}}</span></small></p>
-</footer>
-</div>
-<script type="text/javascript" src="http://tajs.qq.com/stats?sId=40045081" charset="UTF-8"></script> 
-</body>
+	<head>
+		<meta charset="utf-8"/>
+		<title>Yanshuo</title>
+		<meta name="author" content="Yanshuo | 石见石页_"/>
+		<meta name="viewport" content="width=device-width; initial-scale=1.0"/>
+		<link rel="stylesheet" type="text/css"
+				media="screen and (min-width: 700px)"   href="/media/css/home.css"/>
+		<link rel="stylesheet" type="text/css"
+				media="screen and (max-width: 700px)"   href="/media/css/tinyhome.css"/>
+		<script src="http://tjs.sjs.sinajs.cn/open/api/js/wb.js" type="text/javascript" charset="utf-8"></script>
+	</head>
+	<body>
+		<div class="container">
+			<div class="header">
+				<div class="headname"><span id="sitename">石见 石页</span>    <wb:follow-button uid="1641860010" type="red_1" width="67" height="24" ></wb:follow-button></div>
+				<div class="slogan"> 字体子集化，在线提取你需要的字体开始使用</div>
+			</div>
+			{{ content }}
+			<center>
+				<ul class="nav pills">
+					<li><a href="/cn/">博客</a></li>
+				</ul>
+			</center>
+		</div>
+		<script type="text/javascript" src="http://tajs.qq.com/stats?sId=40045081" charset="UTF-8"></script> 
+	</body>
 </html>

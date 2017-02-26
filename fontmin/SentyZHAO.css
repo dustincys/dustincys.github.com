@@ -1,0 +1,10 @@
+@font-face {
+    font-family: "SentyZHAO";
+    src: url("/fontmin/bd6966a0-fc0b-11e6-b801-c7b8883b2d3b/SentyZHAO.eot"); /* IE9 */
+    src: url("/fontmin/bd6966a0-fc0b-11e6-b801-c7b8883b2d3b/SentyZHAO.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
+    url("/fontmin/bd6966a0-fc0b-11e6-b801-c7b8883b2d3b/SentyZHAO.woff") format("woff"), /* chrome, firefox */
+    url("/fontmin/bd6966a0-fc0b-11e6-b801-c7b8883b2d3b/SentyZHAO.ttf") format("truetype"), /* chrome, firefox, opera, Safari, Android, iOS 4.2+ */
+    url("/fontmin/bd6966a0-fc0b-11e6-b801-c7b8883b2d3b/SentyZHAO.svg#SentyZHAO") format("svg"); /* iOS 4.1- */
+    font-style: normal;
+    font-weight: normal;
+}
