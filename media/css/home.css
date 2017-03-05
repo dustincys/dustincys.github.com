@@ -33,7 +33,7 @@
 	text-align:center;
 	font-size:2em;
 	line-height:2em;
-	margin-left: 67px;
+	margin-left: 110px;
 	font-family: "SentySnow";
 }
 .header {
@@ -47,7 +47,7 @@
 	position: relative;
 	text-align: center;
 	height: 430px;
-	width: 620px;
+	width: 320px;
 	margin-top: -40px;
 	margin-left: auto;
 	margin-right: auto;
@@ -56,7 +56,7 @@
 	text-align: center;
 	height: 100%;
 	font-family: "SentyZHAO";
-	line-height: 1.2em;
+	line-height: 0.6em;
 	writing-mode: tb-rl;
 	-webkit-writing-mode: vertical-rl;
 	writing-mode: vertical-rl;
