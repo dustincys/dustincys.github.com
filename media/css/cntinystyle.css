@@ -40,7 +40,6 @@ embed,object,iframe{display:block;margin:4px auto;}
 div.date{ text-align: center; }
 div.title{ text-align:center; }
 div.item{ border: 1px solid #cccccc; padding: 1em 0 1em 0; }
-#duoshuocomments{display: inherit !important;}
 /*********************************************************\
  * baidu share
 \*********************************************************/
