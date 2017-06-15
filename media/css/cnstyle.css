@@ -71,7 +71,7 @@ div.item{ text-align:left; }
 .container{ display:none; }
 .cbp-spmenu { position: fixed; border: 1px solid #ccc; }
 .cbp-spmenu h3 { color: #afdefa; font-size: 1.9em; padding: 20px; margin: 0; font-weight: 300; background: #0d77b6; }
-.cbp-spmenu a { display: block; font-weight: 300; }
+.cbp-spmenu a { display: block; font-weight: 300;line-height:1; }
 .cbp-spmenu a:hover { background: #258ecd; }
 .cbp-spmenu a:active { background: #afdefa; color: #47a3da; }
 /* Orientation-dependent styles for the content of the menu */
