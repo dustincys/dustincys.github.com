@@ -1,8 +1,4 @@
 (function(d) {
-  var css = document.createElement("style");
-  css.type = "text/css";
-  css.innerHTML = "#headofpost > p {font-weight: 500;}";
-  document.body.appendChild(css);
   // https://www.kirupa.com/html5/detect_whether_font_is_installed.htm
   var canvas = document.createElement("canvas");
   var context = canvas.getContext("2d");
