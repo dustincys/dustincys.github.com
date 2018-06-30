@@ -1,7 +1,8 @@
 body{font-size:20px;font-family:'source-han-serif-sc','Source Han Serif SC','Source Han Serif CN','Source Han Serif TC','Source Han Serif TW','Source Han Serif','Songti SC','仿宋','FangSong','NSimSun',"Snippet","Hiragino Sans GB","Microsoft YaHei",Trebuchet,"Trebuchet MS",Tahoma,"Lucida Grande","Lucida Sans Unicode",Verdana,sans-serif;background-color:#ffffff;line-height:1.667}
 *{padding:0;margin: 0;border:none;outline:none;}
-a{color: #000; text-decoration: none; padding-bottom: 2px; border-bottom: 1px solid;}
-a:hover{border-bottom:none}
+a{color: #000; text-decoration: none; padding-bottom: 2px; border-bottom: 1px solid;
+-webkit-transition: all 0.3s ease; -moz-transition: all 0.3s ease; transition: all 0.3s ease;}
+a:hover{border-color:white;}
 #bars,#share,#comment,#go-top{border-bottom:none;}
 hr{margin:.7em 0;border-top:1px dashed #d0d0d0;border-bottom:1px dashed #f9f9f9;}
 p{padding:.5em 0;}
