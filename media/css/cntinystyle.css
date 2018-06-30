@@ -50,7 +50,7 @@ fa.fa-angle-double-up.fa-2x {display: none;}
 /*********************************************************\
  * baidu share
 \*********************************************************/
-.bdsharebuttonbox a{ width: 31px!important; height: 32px!important; margin: 0 6px 0 0!important; background: url(/slides/share_icon.png) no-repeat!important; }
+.bdsharebuttonbox a{ width: 31px!important; height: 32px!important; margin: 0 6px 0 0!important; background: url(/slides/share_icon.png) no-repeat!important; padding-bottom: 0; border-bottom: none;}
 .bdsharebuttonbox a.bds_tsina { background-position: -36px 0!important; }
 .bdsharebuttonbox a.bds_renren { background-position: -108px 0!important; }
 .bdsharebuttonbox a.bds_qzone { background-position: 0 0!important; }
