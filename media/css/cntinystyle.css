@@ -1,4 +1,4 @@
-body{font-size: 20px;font-weight:500;line-height:1.6;font-family: 'source-han-serif-sc','Source Han Serif SC','Source Han Serif CN','Source Han Serif TC','Source Han Serif TW','Source Han Serif',"Snippet","Hiragino Sans GB",'Songti SC','仿宋','FangSong','NSimSun',"Microsoft YaHei",Trebuchet,"Trebuchet MS",Tahoma,"Lucida Grande","Lucida Sans Unicode", Verdana,sans-serif; color:#000000; background-color:#ffffff;} 
+body{font-size: 20px;font-weight:500;line-height:1.667;font-family: 'source-han-serif-sc','Source Han Serif SC','Source Han Serif CN','Source Han Serif TC','Source Han Serif TW','Source Han Serif',"Snippet","Hiragino Sans GB",'Songti SC','仿宋','FangSong','NSimSun',"Microsoft YaHei",Trebuchet,"Trebuchet MS",Tahoma,"Lucida Grande","Lucida Sans Unicode", Verdana,sans-serif; color:#000000; background-color:#ffffff;} 
 *{padding:0;margin: 0;border:none;outline:none;}
 a{color: #000; text-decoration: none; padding-bottom: 2px; border-bottom: 1px solid;}
 hr{margin:.7em 0;border-top:1px dashed #d0d0d0;border-bottom:1px dashed #f9f9f9;}
@@ -6,7 +6,7 @@ p{padding:.5em 0;}
 li{padding:.2em 0;}
 ol,ul{list-style-position:outside;margin-left:1em;padding:0.5em 0;}
 ol ul, ul ol, ul ul, ol ol {margin-left:1em;}
-pre code{margin:1em 0;line-height:1.67;display:block;overflow:auto;}
+pre code{margin:1em 0;line-height:1.667;display:block;overflow:auto;}
 blockquote{display:block;text-align:justify;border-left:4px solid #d2d2d2;}
 blockquote{margin:1em 1em;padding-left:1.5em;}
 blockquote p{margin:0;padding:.5em 0;color:gray;}
@@ -23,7 +23,9 @@ div.toc-header{float:right;padding:12px;border: 1px solid #ddd;margin: 2px;}
 header{padding:.5em 0;text-align:center;}
 hr.style1{border: 0;height: 1px;background-image: -webkit-linear-gradient(left, #d2d2d2, #d2d2d2, #d2d2d2); background-image: -moz-linear-gradient(left, #d2d2d2, #d2d2d2, #d2d2d2); background-image: -ms-linear-gradient(left, #d2d2d2, #d2d2d2, #d2d2d2); background-image: -o-linear-gradient(left, #d2d2d2, #d2d2d2, #d2d2d2);margin:0;}
 nav{font-family:"Snippet","Microsoft YaHei",微软雅黑, Lucida Grande,Tahoma, sans-serif;font-weight:bold;font-size:1.1em;text-transform:uppercase;text-align:center;border-bottom:1px solid #cccccc;}
-nav a{display:none;padding:.7em 1em;color:#4775E7;}
+a:hover{border-bottom:none}
+#bars,#share,#comment,#go-top{border-bottom:none;}
+nav a{display:block;padding:.7em 1em;color:#000000;border-bottom:none;}
 nav a:hover{background-color:#4775E7;text-decoration:none;color:#f9f9f9;-webkit-transition:color .2s linear;}
 h1{font-family:'source-han-serif-sc','Source Han Serif SC','Source Han Serif CN','Source Han Serif TC','Source Han Serif TW','Source Han Serif',"楷体",sans-serif,'Snippet','Hiragino Sans GB','Songti SC','仿宋','FangSong','NSimSun',"Microsoft YaHei";font-size:1.6em;color:#000;}
 h2{font-family:'source-han-serif-sc','Source Han Serif SC','Source Han Serif CN','Source Han Serif TC','Source Han Serif TW','Source Han Serif',"Snippet","Hiragino Sans GB","楷体",sans-serif,'Snippet','Hiragino Sans GB','Songti SC','仿宋','FangSong','NSimSun',"Microsoft YaHei";font-size:1.4em;color:#111;padding:0.5em 0;}
@@ -32,7 +34,7 @@ h4{font-size:1em;font-weight: bold;color:#333;padding:0.5em 0;}
 pre,code{font-family:Menlo,"Andale Mono",Consolas,"Courier New",Monaco,monospace;}
 code{background-color:#E0E0E0;padding:3px 4px;}
 embed,object,iframe{display:block;margin:4px auto;}
-.gist{font-size: 12px;line-height:1.6;}
+.gist{font-size: 12px;line-height:1.667;}
 .clickable-header { cursor:pointer; }
 .clickable-header:hover { text-decoration:underline; }
 .top-level-header { display:inline; }
