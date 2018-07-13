@@ -17,8 +17,8 @@ blockquote p{margin:0;padding:.5em 0;}
 #container{width:850px;margin:auto;display:block;margin-top:4em;margin-bottom:4em;}
 .post{padding:4em 6em 4em 6em; border: 1px solid rgb(204, 204, 204);margin-bottom:2em;}
 #headofpost > p{font-weight:500;}
-.baidubutton{display:none;padding:2em 6em; border: 1px solid rgb(204, 204, 204);margin-top:2em;margin-bottom:2em;}
-.comments{display:none;padding:2em 6em; border: 1px solid rgb(204, 204, 204);margin-top:2em;margin-bottom:2em;}
+.baidubutton{padding:2em 6em; border: 1px solid rgb(204, 204, 204);margin-top:2em;margin-bottom:2em;}
+.comments{padding:2em 6em; border: 1px solid rgb(204, 204, 204);margin-top:2em;margin-bottom:2em;}
 .post > header:nth-child(1){margin-bottom:1.5em;}
 .post > header:nth-child(1) > h1:nth-child(1){ margin-bottom: 0em;text-align:center;}
 hr.style1{border: 0;height: 1px;background-image: -webkit-linear-gradient(left, #d2d2d2, #d2d2d2, #d2d2d2); background-image: -moz-linear-gradient(left, #d2d2d2, #d2d2d2, #d2d2d2); background-image: -ms-linear-gradient(left, #d2d2d2, #d2d2d2, #d2d2d2); background-image: -o-linear-gradient(left, #d2d2d2, #d2d2d2, #d2d2d2);margin:0;}
