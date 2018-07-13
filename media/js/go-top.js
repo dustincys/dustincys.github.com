@@ -59,7 +59,7 @@ GoTop.prototype = {
 
 		topLink.click(function(event) {
 				$("#baidusharebuttons").hide();
-				$("#duoshuocomments").hide();
+				$("#lv-container").hide();
 		});
 		// 节点到屏幕右边的距离
 		var right = _self._getDistanceToBottom({_self:_self});
@@ -519,10 +519,10 @@ Comment.prototype = {
 		var _self = args._self;
 
 		// 插入节点并绑定节点事件, 当节点被点击, 用 0.4 秒的时间滚动到页面顶部
-		var topLink = jQuery('<a id="' + _self.config.nodeId + '" href="#duoshuocomments">' + _self.config.text + '</a>');
+		var topLink = jQuery('<a id="' + _self.config.nodeId + '" href="#lv-container">' + _self.config.text + '</a>');
 		topLink.appendTo(jQuery('body'));
 		topLink.click( function(event){
-			 $("#duoshuocomments").show();
+			 $("#lv-container").show();
 		});
 	//	if(jQuery.scrollTo) {
 	//		topLink.click(function() {

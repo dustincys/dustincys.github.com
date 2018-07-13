@@ -45,7 +45,6 @@ div.item{ border: 1px solid #cccccc; padding: 1em 0 1em 0; }
 /********************************
 *  shut comment and button down *
 ********************************/
-#duoshuocomments{display: none !important;}
 fa.fa-angle-double-up.fa-2x {display: none;}
 /*********************************************************\
  * baidu share
