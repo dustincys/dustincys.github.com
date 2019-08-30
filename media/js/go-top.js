@@ -70,18 +70,20 @@ GoTop.prototype = {
 				'display': 'none',
 				'position': 'absolute',
 				'text-decoration': 'none',
-				'right': right + 'px'
+          'left': '50%',
+          'margin-left': '435px',
 			});
 
 		// 其他浏览器的样式
 		} else {
-			topLink.css({
-				'display': 'none',
-				'position': 'fixed',
-				'text-decoration': 'none',
-				'right': right + 'px',
-				'top': (jQuery(window).height() - _self.config.distanceToBottom) + 'px'
-			});
+        topLink.css({
+            'display': 'none',
+            'position': 'fixed',
+            'text-decoration': 'none',
+            'left': '50%',
+            'margin-left': '435px',
+            'top': (jQuery(window).height() - _self.config.distanceToBottom) + 'px'
+			  });
 		}
 	},
 
@@ -135,8 +137,9 @@ GoTop.prototype = {
 
 		// 重定义节点位置
 		topLink.css({
-			'right': right + 'px',
-			'top': top + 'px'
+        'left': '50%',
+        'margin-left': '435px',
+        'top': top + 'px'
 		});
 	},
 
@@ -239,7 +242,8 @@ Bars.prototype = {
 			topLink.css({
 				'position': 'absolute',
 				'text-decoration': 'none',
-				'right': right + 'px'
+          'left': '50%',
+          'margin-left': '435px',
 			});
 
 		// 其他浏览器的样式
@@ -247,7 +251,8 @@ Bars.prototype = {
 			topLink.css({
 				'position': 'fixed',
 				'text-decoration': 'none',
-				'right': right + 'px',
+          'left': '50%',
+          'margin-left': '435px',
 				'top': (jQuery(window).height() - _self.config.distanceToBottom) + 'px'
 			});
 		}
@@ -303,8 +308,9 @@ Bars.prototype = {
 
 		// 重定义节点位置
 		topLink.css({
-			'right': right + 'px',
-			'top': top + 'px'
+        'left': '50%',
+        'margin-left': '435px',
+      'top': top + 'px'
 		});
 	},
 
@@ -390,7 +396,8 @@ Share.prototype = {
 			topLink.css({
 				'position': 'absolute',
 				'text-decoration': 'none',
-				'right': right + 'px'
+          'left': '50%',
+          'margin-left': '435px',
 			});
 
 		// 其他浏览器的样式
@@ -398,7 +405,8 @@ Share.prototype = {
 			topLink.css({
 				'position': 'fixed',
 				'text-decoration': 'none',
-				'right': right + 'px',
+          'left': '50%',
+          'margin-left': '435px',
 				'top': (jQuery(window).height() - _self.config.distanceToBottom) + 'px'
 			});
 		}
@@ -454,7 +462,8 @@ Share.prototype = {
 
 		// 重定义节点位置
 		topLink.css({
-			'right': right + 'px',
+        'left': '50%',
+        'margin-left': '435px',
 			'top': top + 'px'
 		});
 	},
@@ -539,7 +548,8 @@ Comment.prototype = {
 			topLink.css({
 				'position': 'absolute',
 				'text-decoration': 'none',
-				'right': right + 'px'
+          'left': '50%',
+          'margin-left': '435px',
 			});
 
 		// 其他浏览器的样式
@@ -547,7 +557,8 @@ Comment.prototype = {
 			topLink.css({
 				'position': 'fixed',
 				'text-decoration': 'none',
-				'right': right + 'px',
+          'left': '50%',
+          'margin-left': '435px',
 				'top': (jQuery(window).height() - _self.config.distanceToBottom) + 'px'
 			});
 		}
@@ -603,7 +614,8 @@ Comment.prototype = {
 
 		// 重定义节点位置
 		topLink.css({
-			'right': right + 'px',
+        'left': '50%',
+        'margin-left': '435px',
 			'top': top + 'px'
 		});
 	},
