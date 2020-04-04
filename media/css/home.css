@@ -37,6 +37,7 @@
 }
 .header {
 	text-align: center;
+  margin-bottom: 50px;
 }
 .header .slogan {
 	font-family: "SentyPea";
