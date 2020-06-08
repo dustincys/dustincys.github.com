@@ -80,13 +80,13 @@
 }
 .myblog {
     display: inline-block;
-    border: 1px solid #000;
-    height: 40px;
-    width: 196px;
-    line-height: 34px;
-    border-radius: 20px;
-    background: #fff;
-    text-decoration: none;
+    /* border: 1px solid #000; */
+    /* height: 40px; */
+    /* width: 196px; */
+    /* line-height: 34px; */
+    /* border-radius: 30px; */
+    /* background: #fff; */
+    /* text-decoration: none; */
     font-family: "SentyPea";
     font-size: 24px;
     text-align: center;
