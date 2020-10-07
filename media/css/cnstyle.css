@@ -5,7 +5,7 @@ a{color: #000; text-decoration: none; padding-bottom: 2px; border-bottom: 1px so
 a:hover{border-color:white;}
 #bars,#share,#comment,#go-top{border-bottom:none;}
 hr{margin:.7em 0;border-top:1px dashed #d0d0d0;border-bottom:1px dashed #f9f9f9;}
-p{padding:.5em 0;}
+p{padding:.5em 0;text-align:justify;text-justify:distribute;}
 li{padding:.2em 0;font-weight:bold;}
 ol,ul{list-style-position: outside; margin-left:1em;padding:0.5em 0;}
 ol ul, ul ol, ul ul, ol ol {margin-left:1em;}
