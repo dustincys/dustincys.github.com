@@ -4,7 +4,7 @@ a{color: #000; text-decoration: none; padding-bottom: 2px; border-bottom: 1px so
 hr{margin:.7em 0;border-top:1px dashed #d0d0d0;border-bottom:1px dashed #f9f9f9;}
 p{padding:.5em 0;text-align:justify;text-justify:distribute;text-indent:2em;}
 div.footnotes ol li p {text-indent:0em;}
-html body div#container div.post ul li p {text-indent: 0em;}
+html body div#container div.post ul li p, html body div#container div.post ol li p{text-indent: 0em;}
 li{padding:.2em 0;}
 ol,ul{list-style-position:outside;margin-left:1em;padding:0.5em 0;}
 ol ul, ul ol, ul ul, ol ol {margin-left:1em;}

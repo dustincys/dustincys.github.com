@@ -101,6 +101,6 @@ div.item{ text-align:left; }
 @-o-keyframes swing { 10%{ -o-transform: rotate(18deg);} 20% { -o-transform: rotate(-16deg); } 30%{-o-transform:rotate(14deg);} 40% { -o-transform: rotate(-12deg); } 50% { -o-transform: rotate(10deg); } 60% { -o-transform: rotate(-8deg); } 70% { -o-transform: rotate(6deg); } 80% { -o-transform: rotate(-4deg); } 90% { -o-transform: rotate(2deg); } 100% { -o-transform: rotate(0deg); } }
 @keyframes swing { 10%{ transform: rotate(18deg);} 20% { transform: rotate(-16deg); } 30%{transform:rotate(14deg);} 40% { transform: rotate(-12deg); } 50% { transform: rotate(10deg); } 60% { transform: rotate(-8deg); } 70% { transform: rotate(6deg); } 80% { transform: rotate(-4deg); } 90% { transform: rotate(2deg); } 100% { transform: rotate(0deg); } }
 div.footnotes ol li p {padding: .2em 0;text-indent:0em;}
-html body div#container div.post ul li p {text-indent: 0em;}
+html body div#container div.post ul li p, html body div#container div.post ol li p{text-indent: 0em;}
 div.footnotes ol li {padding: 0 0; font-weight:inherit;}
 .footnotes {font-size: 16px; line-height: 1.667; border-top: 1px solid #ccc; margin-top: 1em;}
