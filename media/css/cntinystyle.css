@@ -66,8 +66,8 @@ fa.fa-angle-double-up.fa-2x {display: none;}
 .toc > ul > li > ul{ padding:0.4em 0em 0em 0em; }
 /* hidden menu  */
 .ubutton{ display: none; }
-.container{ text-align: right; margin-top: -1em; }
-#showRightPush{ color: #999; background: white; }
+.container{ text-align: right; margin-top: -1.1em; }
+#showRightPush{ color: #d2d2d2; background: white; }
 .cbp-spmenu { position: fixed;}
 .cbp-spmenu h3 { color: #afdefa; font-size: 1.9em; padding: 20px; margin: 0; font-weight: 300; background: #0d77b6; }
 .cbp-spmenu a { display: block; font-weight: 300; }
