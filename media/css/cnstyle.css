@@ -6,7 +6,7 @@ a:hover{border-color:white;}
 #bars,#share,#comment,#go-top{border-bottom:none;}
 hr{margin:.7em 0;border-top:1px dashed #d0d0d0;border-bottom:1px dashed #f9f9f9;}
 p{padding:.5em 0;text-align:justify;text-justify:distribute;text-indent:2em;}
-li{padding:.2em 0;font-weight:bold;}
+li{padding:.2em 0;font-family:'仿宋'}
 ol,ul{list-style-position: outside; margin-left:1em;padding:0.5em 0;}
 ol ul, ul ol, ul ul, ol ol {margin-left:1em;}
 pre code{margin:1em 0;line-height:1.667;display:block;overflow:hidden;}
