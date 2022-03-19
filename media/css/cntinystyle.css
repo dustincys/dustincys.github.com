@@ -8,12 +8,13 @@ html body div#container div.post ul li p, html body div#container div.post ol li
 li{padding:.2em 0;}
 ol,ul{list-style-position:outside;margin-left:1em;padding:0.5em 0;}
 ol ul, ul ol, ul ul, ol ol {margin-left:1em;}
-pre code{margin:1em 0;line-height:1.667;display:block;overflow:auto;}
+pre code{margin:1em 0;line-height:1.3;display:block;overflow:auto;}
 blockquote{display:block;text-align:justify;border-left:4px solid #d2d2d2;}
 blockquote{margin:1em 1em;padding-left:1.5em;}
 blockquote p{margin:0;padding:.5em 0;color:gray;text-indent:0em;}
 @media screen{ #container{width:90%;margin:1em auto;display:block;}}
 .fancybox img{max-width:99%;display:block;margin:4px auto;-webkit-box-shadow:#999 1px 1px 4px;-moz-box-shadow:#999 1px 1px 4px;box-shadow:#999 1px 1px 4px; }
+.post iframe{max-width:99%;display:block;margin:4px auto;-webkit-box-shadow:#999 1px 1px 4px;-moz-box-shadow:#999 1px 1px 4px;box-shadow:#999 1px 1px 4px; }
 #tag_cloud{margin-bottom: 1em;font-weight:bold;}
 #tag_cloud a:hover{color:#D54773 !important;text-decoration:none;}
 .listing-item,.listing-seperator{list-style-type:none; margin-left:-1em;}
