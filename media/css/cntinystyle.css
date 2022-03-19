@@ -90,4 +90,4 @@ fa.fa-angle-double-up.fa-2x {display: none;}
 .miniAvata{ clear:both; display:block; margin-left: auto; margin-right: auto; border-radius: 25em; max-width: 30%; }
 .down{display:none !important;}
 .fa-2x {display: none !important;}
-.MathJax_Display{overflow:hidden;}
+.MathJax_Display{overflow:auto;}
