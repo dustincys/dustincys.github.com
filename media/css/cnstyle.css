@@ -33,7 +33,7 @@ hr.style1{border: 0;height: 1px;background-image: -webkit-linear-gradient(left, 
 .listing-seperator{font-weight:bold;margin-left:-1em;}
 div.toc-header{float:right;padding:1em;border: 1px solid #ddd; margin-top: 1em; margin-left: 1em;  max-width: 40%;}
 .toc-title{margin-left:1em;}
-nav{font-family:'华文行楷','Snippet','Hiragino Sans GB','source-han-serif-sc','Source Han Serif SC','Source Han Serif CN','Source Han Serif TC','Source Han Serif TW','Source Han Serif','Songti SC','仿宋','FangSong','NSimSun',"Microsoft YaHei";font-weight:bold;font-size:1.1em;text-transform:uppercase;text-align:center;}
+nav{font-family:'华文行楷','source-han-serif-sc','Source Han Serif SC','Source Han Serif CN','Source Han Serif TC','Source Han Serif TW','Source Han Serif','Songti SC','仿宋','FangSong','NSimSun',"Microsoft YaHei";font-weight:bold;font-size:1.1em;text-transform:uppercase;text-align:center;}
 nav a{display:block;padding:.7em 1em;color:#000000;border-bottom:none;}
 nav a:hover{background-color:#4775E7;text-decoration:none;color:#f9f9f9; -webkit-transition:color .2s linear;}
 h1{font-family:'source-han-serif-sc','Source Han Serif SC','Source Han Serif CN','Source Han Serif TC','Source Han Serif TW','Source Han Serif',"楷体",sans-serif,'Snippet','Hiragino Sans GB','Songti SC','仿宋','FangSong','NSimSun',"Microsoft YaHei";font-size:1.6em;color:#000;}
