@@ -28,7 +28,6 @@ hr.style1{border: 0;height: 1px;background-image: -webkit-linear-gradient(left, 
 #tag_cloud{margin-bottom: 1em;font-weight:bold;}
 #tag_cloud a:hover{color:#D54773 !important;text-decoration:none;}
 .listing-item,.listing-seperator{list-style-type:none;}
-.listing-item a{padding:.2em 1em;}
 .listing-item time{color:#999999;}
 .listing-seperator{font-weight:bold;margin-left:-1em;}
 div.toc-header{float:right;padding:1em;border: 1px solid #ddd; margin-top: 1em; margin-left: 1em;  max-width: 40%;}
@@ -55,6 +54,7 @@ embed,object,iframe{display:block;margin:4px auto;}
 .top-level-header { display:inline; }
 .back-to-top { margin-left:5px; cursor:pointer; }
 div.date, div.title{ display: inline; }
+div.title{padding:.2em 1em;}
 div.item{ text-align:left; }
 .fa{ border:1px solid #ccc; color: #ccc; width:45px; height:45px; display:table-cell !important; text-align:center; vertical-align:middle; }
 .fa:hover{ background:#dadada; color:gray; }
