@@ -60,7 +60,7 @@ fa.fa-angle-double-up.fa-2x {display: none;}
 .bdsharebuttonbox a.bds_more { background-position: -144px 0!important; }
 .shareto { padding-top: 1em; max-width: 100%; display: block; border-top: 1px solid #cccccc; }
 .shareto span { padding-right: 15px; line-height: 32px; }
-.meta{ margin: 0.5em 1em 1.5em 1em; padding-left: 1.5em; border-left: 4px solid #D2D2D2; }
+.meta{text-align: center; margin: 2em 0; border-top: 1px solid #aaa; border-bottom: 1px solid #aaa; padding: 1em 0;}
 .toc > ul{ padding:0.4em 0em 0em 0em; }
 .toc > ul > li{ padding:0.4em 0em 0em 0em; }
 .toc > ul > li > ul{ padding:0.4em 0em 0em 0em; }
