@@ -18,7 +18,6 @@ blockquote p{margin:0;padding:.5em 0;color:gray;text-indent:0em;}
 #tag_cloud{margin-bottom: 1em;font-weight:bold;}
 #tag_cloud a:hover{color:#D54773 !important;text-decoration:none;}
 .listing-item,.listing-seperator{list-style-type:none; margin-left:-1em;}
-.listing-item a{padding:.2em 1em;}
 .listing-item time{color:#999999;}
 .listing-seperator{font-weight:bold;text-align:center;}
 div.toc-header{float:right;padding:12px;border: 1px solid #ddd;margin: 2px;}
