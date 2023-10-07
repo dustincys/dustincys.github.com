@@ -60,6 +60,7 @@ GoTop.prototype = {
 		topLink.click(function(event) {
 				$("#baidusharebuttons").hide();
 				$("#comment_thread").hide();
+				$(".headline").show();
 		});
 		// 节点到屏幕右边的距离
 		var right = _self._getDistanceToBottom({_self:_self});
@@ -98,6 +99,7 @@ GoTop.prototype = {
 		if(jQuery(document).scrollTop() <= _self.config.hideRegionHeight) {
 			clearTimeout(_self.cache.topLinkThread);
 			topLink.hide();
+			$(".headline").show();
 			return;
 		}
 
@@ -114,6 +116,7 @@ GoTop.prototype = {
 		// 在隐藏区域之外, 其他浏览器显示节点
 		} else {
 			topLink.fadeIn();
+			$(".headline").hide();
 		}
 	},
 
@@ -211,20 +214,8 @@ Bars.prototype = {
 		// 插入节点并绑定节点事件, 当节点被点击, 用 0.4 秒的时间滚动到页面顶部
 		var topLink = jQuery('<a id="' + _self.config.nodeId + '" href="">' + _self.config.text + '</a>');
 		topLink.appendTo(jQuery('body'));
-		var menu = document.getElementById( 'cbp-spmenu-s1' );
-		var contain = document.getElementById( 'container' );
 		topLink.click( function(event){
-			classie.toggle( menu, 'cbp-bigpage' );
-			if ( classie.has( menu, 'cbp-bigpage' ) ){
-				var cof = jQuery("#container").offset().left;
-				if ( cof < 240) {
-					classie.add(contain, 'ccbp-bigpage' ) // add new class
-				}else{
-					classie.remove(contain, 'ccbp-bigpage' ) // remove class
-				}
-			}else{
-				classie.remove(contain, 'ccbp-bigpage' ) // remove class
-			}
+			$(".headline").toggle();
 			event.preventDefault();
 		});
 	//	if(jQuery.scrollTo) {
