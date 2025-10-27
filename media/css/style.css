@@ -8,7 +8,7 @@
 * |/ | (~ (~
 * |\.|._)._)
 * --------------------------------- */
-@import url(https://fonts.gmirror.org/css?family=Snippet); 
+@import url("https://cdn.jsdelivr.net/gh/google/fonts@main/ofl/snippet/index.css");
 body{font-size:16px;font-family:"Snippet","Hiragino Sans GB","Microsoft YaHei",Trebuchet,"Trebuchet MS",Tahoma,"Lucida Grande","Lucida Sans Unicode",Verdana,sans-serif;color:#000000;background-color:#ffffff;}
 *{padding:0;margin: 0;border:none;outline:none;}
 a{color:#4775E7;text-decoration:none;}
