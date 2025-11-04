@@ -1,3 +1,21 @@
+@font-face {
+    font-family: 'Source Han Serif CN';
+    src: local('Source Han Serif CN'), local('Source Han Serif SC'),
+         local('Source Han Serif TC'), local('Source Han Serif TW'),
+         local('Source Han Serif'), local('Noto Serif CJK SC'), local('Songti SC'), local('SimSong'),
+         url('https://cdn.jsdelivr.net/gh/dustincys/cron/fonts/SourceHanSerifCN-Regular-ysc.woff2') format('woff2');
+}
+@font-face {
+    font-family: "SentyPea";
+    src: url("https://cdn.jsdelivr.net/gh/dustincys/dustincys.github.com@master/fontmin/SentyPea-ysc.woff2") format("woff2");
+    font-display: swap;
+}
+@font-face {
+    font-family: "SentySnow";
+    src: url("https://cdn.jsdelivr.net/gh/dustincys/dustincys.github.com@master/fontmin/SentySnowMountain-ysc.woff2") format("woff2");
+    font-display: swap;
+}
+#myname {font-weight: bold; font-family: 'SentySnow';}
 body{font-size: 20px;font-weight:500;line-height:1.667;font-family: 'source-han-serif-sc','Source Han Serif SC','Source Han Serif CN','Source Han Serif TC','Source Han Serif TW','Source Han Serif',"Snippet","Hiragino Sans GB",'Songti SC','仿宋','FangSong','NSimSun',"Microsoft YaHei",Trebuchet,"Trebuchet MS",Tahoma,"Lucida Grande","Lucida Sans Unicode", Verdana,sans-serif; color:#000000; background-color:#ffffff;}
 *{padding:0;margin: 0;border:none;outline:none;}
 a{color: #000; text-decoration: none; padding-bottom: 2px; border-bottom: 1px solid;}
